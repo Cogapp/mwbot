@@ -1,0 +1,1262 @@
+#MuseumLove: Working together to promote local cultural institutions
+#Taull1123: Immersive Experience in a World Heritage Site (or Augmented Reality without Devices)
+#TeensCan: Let teens be your social media voice
+(Re)constructing Memory: Online Exhibitions at the United States Holocaust Memorial Museum
+1-800-FOR-TOUR: Delivering Automated Audio Information through Patrons' Cell Phones
+10 Museums, 12 Months, 1 DAMS: Adventures in Centralized Systems at Balboa Park
+1000 Years of the Olympic Games: Digital Reconstruction at the Home of the Gods
+2001: A Cyberspace Odyssey
+21 Websites in 26 Months
+3D Worlds and Cultural Heritage: Realism vs. Virtual Presence
+3D for Cultural Heritage and Education: Evaluating the Impact
+3D-Temporal Navigation on the Web: How to Explore a Virtual City along Multiple Historical Dimensions
+A Conceptual Framework for Analysing Social Systems Surrounding Korean National Museums in the Digital Age
+A Conceptual Framework for Smart Museum Education
+A Cooperative Experience: The Boí Valley Gateway
+A Curatorial Resource for Upstart Media Bliss
+A Different Kind of Experience: Using a Smart Mobile Guide for Education and Aging Research at the Hecht Museum
+A Family of Solutions for a Small Museum: The Case of the Archaeological Museum in Milan
+A Framework for Multipurpose Content Development
+A Guide to Managing a Large Multi-Institutional Project in the Cultural Sector
+A Look Ahead—The Impact of Scalable Vector Graphics (SVG) on Museum Web Projects
+A Mobile Guide App Platform Prototype with Front-End Evaluation and Potential Business Model for Museums in Finland
+A Model to Support Literary Research Collections on the World Wide Web
+A Modern Museum Web Stack
+A Multimedia Information System for Governmental Historical Documents
+A Multiplicity of Voices: Encouraging and Developing On-Line Collaborative Projects for Schools
+A Museum Is a Museum Is a Museum…or Is It? A Discussion of Museology on the Web
+A Museum Portal for Cultural Landscapes
+A Museum-University Partnership to Develop Web-Based Educational Resources
+A Museums Wiki
+A New DOR Opens: How the J. Paul Getty Museum Is Reimagining Digital Collection Information Management
+A New Framework for Querying Semantic Networks
+A New Look at an Old Friend: Reevaluating the Met's Audio-Guide Service
+A New Norm for Studying Chinese Painting and Calligraphy Online
+A New Way of Making Cultural Information Resources Visible on the Web: Museums and the Open Archives Initiative
+A New York Museums and Pratt Partnership: Building Web Collections and Preparing Museum Professionals for the Digital World
+A Postcolonial Museum of the Present
+A Prototype Digital Library for 3D Collections: Tools to Capture, Model, Analyze, and Query Complex 3D Data
+A Re-usable Software Framework for Authoring and Managing Web Exhibitions
+A Research Agenda for Designing Next-Generation Learning Spaces for Universities and Museums
+A Rolling Evaluation Gathers No Moss
+A Scalable, Modular Framework for Publishing Museum Educational Materials
+A Second Life for Your Museum: 3D Multi-User Virtual Environments and Museums
+A Smartphone Headset for Augmented-Reality Experiences in Museums
+A Spatial Approach for the Access, Manipulation, and Publication of Digital Library Artifacts
+A Survey of Characteristics and Patterns of Behavior in Visitors to a Museum Web Site
+A Top Level Domain for Museums
+A Ubiquitous Mobile Edutainment Application for Learning Science through Play
+A Virtual Fine Arts Museum on the Web
+A Virtual Interactive Art Gallery
+A Virtual Reconstruction of the 1913 World Fair at STAM—Ghent City Museum
+A Whale of a Web-Site
+A Wish-List of Web Resources for Humanities Scholarship
+A case study on using voice technology to assist the museum visitor
+A little sweat goes a long way, or: Building a community-driven digital asset management system for museums
+A location based understanding of mobile app user behavior
+A multi-institutional model of blended teacher professional development
+A path with choice: What we learned from designing an inclusive audio guide
+A physical/digital playful learning environment for a New Mexico Historic Site
+A proposal for a virtual reality museum for virtual reality art
+A review of a year of open access images at Te Papa
+A seat at the table: Giving visitors a voice in exhibition development through user testing
+A 'Smart' Authoring and Delivery Tool for Multichannel Communication
+ARtSENSE and Manifest.AR: Revisiting Museums in the Public Realm through Emerging Art Practices
+Absalon.nu—An Interactive History of Copenhagen on the Net
+Access to Heritage Resources Using What, Where, When, and Who
+Access to the Distributed Environment: Making On-Line Museum Content More Accessible to Educators
+Accessibility 2.0: A Holistic and User-Centred Approach to Web Accessibility
+Accessibility Techniques for Museum Web Sites
+Accessibility and New Technology in the Museum
+Accessibility and technology: Developing a Virtual Access Tour
+Accessing Museums through the Web: A Model for Evaluating the Impact of Museum and School Partnerships
+Accurator: Enriching collections with expert knowledge from the crowd
+Action Stations: Embedding digital in the physical – What did we learn?
+Action, Affection, and Control: Interface Guidelines for Complex Visual Content
+Actual/Virtual Visits: What Are the Links?
+Adapting Museum Structures for the Web: No Changes Needed!
+Adding Value to Large Multimedia Collections through Annotation Technologies and Tools: Serving Communities of Interest
+Adding value to Online Collections for Different Audiences
+Addressing Multiple Audiences with Multiple Interfaces to The AMICO Library (tm)
+Addressing the Limitations of Open Standards
+After Sound, What's Next?
+After the Heroism, Collaboration: Developing an Inter-Departmental Interpretive Goals Process at SFMOMA
+After the Heroism, Collaboration: Organizational Learning and the Mobile Space
+Agile Games for Productive Teams
+Agile Methods for Project Management
+All Weblogs Are not Created Equal: Analyzing What Works
+All-on-one-page: Linking Maps, Timelines, and Social Bookmarking to Build Historical Context and Visitor Engagement
+An Advanced Solution For Publishing 3D Content On The Web
+An Affordable System for a Thematic Exhibition by Using the Internet/Intranet
+An Audio State of Mind: Understanding Behaviour around Audio Guides and Visitor Media
+An Evaluation Framework for Success: Capture and Measure Your Social-Media Strategy Using the Balanced Scorecard
+An Examination of the Impact of Subjective Cultural Issues on the Usability of a Localized Web Site—The Louvre Museum Web Site
+An Interactive Display for the Real-Time Viewing of Virtually Restored Museum Artifacts
+An Introduction to Digital Strategies for Museums
+An Object Server for the Future (ELISE II)
+An Overview of the Natural Protected Areas in Jalisco
+Analysis of Learning, Experiences of Art, and Ideas for Connections
+Anonymous and cheap: Experimenting with unobtrusive methods of measuring user experience and engagement for in-gallery interactives
+Applied Architecture
+Approaches to Presentation of Cultural Heritage Information in the ALM-area in Denmark and Scandinavia
+Archeowiki: When Open-Source Strategies Attract Visitors' Presence in Museums. A Project for the Enhancement of Archaeological Heritage in Lombardy (Italy).
+Architecting the Elephant: Software Architecture and User Interface Design for Pachyderm 2.0
+Archives strengthening historical narratives: Sharing digital and linked data resources for broader reach and sustainability
+ArchivesSpace: A Next-Generation Archives Management System
+Archiving Flickr and Other Websites of Interest to Museums
+Are We Serving Our Targeted Audiences? Changing Audiences and Changing Technologies
+Art & Artists
+Art + Data: Building the SFMOMA Collection API
+Art App-reciation: Fostering Engagement and Reflection in Museums through a Social-Mobile Application
+Art History Images on the Website of Siberian Federal University
+Art History Webmasters, as a Listserv and Organization
+Art Museum Web Sites: From Information Medium to Learning Medium
+Art Museums and YouTube: Current Practice and Potential Strategy
+Art Tales: A Story of Collaboration and Integration
+Art Tracks: Visualizing the Stories and Lifespan of an Artwork
+Art Tracks: using Linked Open Data for object provenance in museums
+Art-Mapping Smart-Cities: Accessing Art Collections outside the Museum
+ArtClix Mobile App at the High Museum of Art
+ArtClix: The High Museum of Art's Foray into Mobile Apps, Image Recognition, and Visitor Participation
+ArtPad: Here's the Collection—Did We Make a Connection?
+Artefacts and archives: Considering cross-collection knowledge networks in museums
+Artifact as Inspiration: Using Existing Collections and Management Systems to Inform and Create New Narrative Structures
+Arts, Science, and History Online: Examples of Successful Collaborations between an e-Learning Firm and Non-Profit Organizations
+ArtsEdNet: Assessing an Arts Education Web Site
+Artwork identification from wearable camera images for enhancing experience of museum audiences
+Asia Art Museum on Google Art Project: A Web Log Analysis of the National Palace Museum's Participation
+Assessing the User Experience (UX) of Online Museum Collections: Perspectives from Design and Museum Professionals
+At Home in the Heartland: Forming a Museum/School Resource via the World Wide Web
+Attaining the Holy Grail: How to Encourage Wider Engagement with Museum Collections through Participation in New Media Projects
+Attraction by Interaction: Wiki Webs as a Way to Increase the Attractiveness of Museums' Web Sites
+Audience Analysis in the Age of Engagement
+Audience+: A Holistic Approach to Developing Social Media Guidelines for Swiss Museums
+Audience-centered product development: establishing a digital product development framework at Te Papa
+Audiences, Visitors, and Users: Reconceptualising Users of Museum On-line Content and Services
+Audio that moves you: experiments with location-aware storytelling in the SFMOMA app
+Augmented Reality and the Museum Experience
+Augmented Reality for Interpretive and Experiential Learning
+Augmented Reality—What Reality Can We Learn From It?
+Augmented and Mixed Reality Design for contested and challenging histories
+Augmenting On-Line Exhibitions. Building a Multimedia Knowledge Repository: Multimedia: From Wagner to Virtual Reality on Artmuseum.net
+Authority File Information as Global Access Point to Cultural Heritage Data: Some New Concepts
+Authority Records, Future Computers, and Other Unfinished Histories
+Authorship: The Implications of the Web Designer's Narrative on Children's Social Construction
+Automatic Heritage Metadata Enrichment with Historic Events
+Be Your Own Curator with the CHIP Tour Wizard
+Best of Creativity in Museums: Key Learnings from Seven Communication Experts in Branding, Design, and Digital Strategy
+Beyond Browsing and Searching: Design and Development of a Platform for Supporting Curatorial Research and Content Creation
+Beyond Cool: Making Mobile Augmented Reality Work for Museum Education
+Beyond Data Driven: The Development of Mystic Seaport's Website
+Beyond Launch: Museum Videos on YouTube
+Beyond Museum Walls—A Critical Analysis of Emerging Approaches to Museum Web-Based Education
+Beyond Online Collections: Putting Objects to Work
+Beyond the Building: Creating and Supporting Communities Based on Place
+Beyond the On-Line Catalogue: Using the Web to Leverage Your Collection More Effectively
+Beyond the Screen: Creating Interactives That Are Location, Time, Preference, and Skill Responsive
+Beyond the Virtual Field Trip: The Online Museum Classroom
+Big and slow: Adventures in digital storytelling
+Bits & Bolts to Bits & Bytes: The Quilt Index Online Repository and Distributed Archival Management System
+Blogging the Past: Recreating History and Creating Community with Bound for South Australia
+Blow Up Your Digital Strategy: Changing the Conversation about Museums and Technology
+Bookmarking in Museums: Extending the Museum Axperience beyond the Visit?
+Brave New World—Museums and the Market
+Breaking apart Participation in Museums
+Bridging Communities of Practice: Emerging Technologies for Content-Centered Linking
+Bridging the Gap between Research and Education: The Future of Network Technology in the Sciences and Science Museums
+Bridging the Physical and Virtual Experiences: Two Approaches by the Museum of Inuit Art
+Bring It On: Ensuring the Success of BYOD Programming in the Museum Environment
+Bringing Authentic Museum Experiences to the Web
+Bringing Books Online
+Bringing Citizen Scientists and Historians Together
+Bringing Cultural Heritage into Primary School Classrooms through Web technology: The Milano Romana Tecnologica Case-Study
+Bringing It All Together: Developing a User-Centered Search Experience on the SFMOMA Web Site
+Bringing Mars Home: The MarsQuest Online Project
+Bringing User Testing into the Classroom: The Moving Here In-Class Evaluation Programme
+Bringing the Curatorial Process to the Web
+Bringing the Object to the Viewer: Multimedia Techniques for the Scientific Study of Art
+Broadening Access to Native American Collections via the Internet
+Building Cybercabinets: Guidelines for Online Access to Digital Natural History Collections
+Building Integrated Museum Information Systems: Practical Approaches to Data Organization and Access
+Building Linked Data for Cultural Information Resources In Japan
+Building Museum Brands for the Next Generation: Web Sites That Reach and Keep Young People
+Building a Cultural Calendar
+Building a Festival Web Site: An Uncommon Collaboration
+Building a New Wing: The Digital Engagement Project
+Building a Virtual Museum Community
+Building a Web-Based Collaborative Database—Does It Work?
+Building a smart museum: Tackling in-gallery challenges with digital experience at scale
+Building an Adaptive Museum Gallery in Second Life
+Building an Educational Web-Site
+Building an On-line Community: Web 2.0 and Interpretive Materials at the Brooklyn Museum
+Building an Online Commons for the Park
+Building an Ultimate Art Museum on the Web
+Building and Growing Your Web Site Using the Team Approach
+Building and Sustaining Learning Communities
+Building distributed online exhibitions with IIIF
+Building on the MDA SPECTRUM XML DTD for Collections Management Data Interchange
+Building the Car while Driving It: Using Agile Methodologies for Changing Project Scopes
+Building the Next-Generation Collaborative Museum Shopping Site: Merging e-Commerce, e-museums, & entrepreneurs
+Burarra Gathering: Sharing Indigenous Knowledge
+Buzz and Viral Marketing as a PR Tool for Museums: A Dutch Case Study
+Caboodle by Culture24: How to Engage Children with Your Collection Online in a New Way (and How They Can Engage You in Theirs!)
+Camera Lucida: AMICO in an Art History Classroom
+Can Moderate-Priced Technology Extend the Museum Experience Successfully?
+Can Social Tagging Be a Tool to Reduce the Semantic Gap between Curators and Audiences? Making a Semantic Structure of Tags by Implementing the Faceted Tagging System for Online Art Museums
+Can You See Me? Exploring Co-Visiting between Physical and Virtual Visitors
+Can Your Website Go the Distance? Integrating the Web to Make Your Distance-Learning Programs Go Further
+Canada's Digital Collections: Youth Employment Opportunities and Canadian Content Online
+Capturing Visitors' Gazes: Three Eye-Tracking Studies in Museums
+Case Study: New World Blogging within a Traditional Museum Setting
+Casgliad y Werin Cymru—People's Collection Wales: Combining Museum, Library, Archive, Broadcaster- and User-Generated Content to Create 'Wales in a Website'
+Cataloging Images for Digital Collections
+Cell Phones and Exhibitions 2.0: Moving beyond the Pilot Stage
+Center for Creative Photography Channels a Wave of Success through the Web
+Changing gears: Fast-lane design for accelerated innovation in memory organisations
+Cheap, Accurate RFID Tracking of Museum Visitors for Personalised Content Delivery
+Chicago WebDocent
+Chicago WebDocent: Bringing Museums to the Digital Classroom—On-Line Content Management and Presentation System (CMAP)
+Chicago WebDocent: Web-Based Curriculum from Multiple Museums
+City Treasure: Mobile Games for Learning Cultural Heritage
+Closing Plenary
+Co-operation Metaphors for Virtual Museums
+Collaboration and Student Involvement on an Art Curriculum Website: www.walkerart.org/artsnetmn
+Collaboration, Dark Fiber, and the Challenges of Deploying Mobile Infrastructure
+Collaborative Annotation System Using Vocal Comments Recorded on Mobile Phones and Audioguides: The Centre Pompidou Exhibition
+Collaborative Cultural Resource Creation: The Example of the Art Museum Image Consortium
+Collaborative Digital Environments for Art Education / Exploration
+Collaborative History—Creating (and Fostering) a Wiki Community
+Collaborative Teaching & Learning between Continents: A Case Study
+Collaborative digital curation and recursive publics: The making of Sq'éwlets: A Stó:lō-Coast Salish Community in the Fraser River Valley
+Collage and Content-Based Image Retrieval: Collaboration for Enhanced Services for the London Guildhall Library
+Collecting community: digital initiatives for New Zealand museums
+Collecting the Present: Digital Code and Collections
+Collecting the ephemeral social media photograph for the future: Why museums and archives need to embrace new work practices for photography collections
+Collection Effects: Examining the Actual Use of On-line Archival Images
+Collections Cubed: Into the third dimension
+Colouring digital collections: Challenges and opportunities for the use of colour metadata in cultural collections
+Combat against Illicit Traffic
+Combining the CIDOC CRM and MPEG-7 to Describe Multimedia in Museums
+Community Makers, Major Museums, and the Keet S'aaxw: Learning about the Role of Museums in Interpreting Cultural Objects
+Community Sites and Emerging Sociable Technologies
+Completing the picture: how a graphical interface for understanding Modern art is meeting the touch of non-sighted visitors
+Computational Linguistics in Museums: Applications for Cultural Datasets
+Concept Maps for Online Exhibits: Using SpicyNodes
+Conceptual and Intermedia Arts Online: The Challenge of Documenting and Presenting Non-Traditional Art Collections
+Conceptualizing a Digital Media Museum
+Connecting Collection Objects from Museum Deposits and Reserve Areas to the Web
+Connecting Learners and Museums through Educational Metadata Initiatives
+Connecting the dots: The impact of diversity in the museum workforce on innovation, relevance, and audience Engagement
+Connectivity, Collaboration, and Culture: Challenges of African Museums on the Web
+Constructing a Virtual Museum of Machine Mechanism Models Imported from Germany During Japanese Westernization for Higher Education
+Content Management for a Content-Rich Website
+Content and Technology Working Together to Create Educational Web Sites: A Project Manager's Case Study in Producing Teacher Workshops Online
+Context Is King: Using Indoor-Location Technology for New Visitor Experiences
+Contexta/SR: A Multi-Institutional Semantic Integration Platform
+Contextual Links and Non-Linear Narrative: A Virtual Rashomon
+Convergence and Integration Online: The Arts and Humanities Data Service Gateway and Catalogues
+Converging Content
+Cooperative Visits for Museum WWW Sites
+Cooperative Visits for Museum WWW Sites a Year Later: Evaluating the Effect
+Copyright Obstacles to Exploiting Websites—A European View
+Copyright in the Age of Chaos
+Creating Heritage Content for the Web
+Creating Interactive Content and Community in Second Life
+Creating Online Experiences in Broadband Environments
+Creating Online Galleries of Information for K–12 Audiences
+Creating a Mobile App Ecosystem—The Genera Project for iOS
+Creating a Virtuous Circle between a Museum's On-Line and Physical Spaces
+Creating an Interactive Student Medium for Learning about the Holocaust
+Creating the smart museum: the intersection of digital strategy, kiosks and mobile
+Crisis Management and the Digital
+Cross Media: When the Web Doesn't Go Alone
+Crowdsourcing a nation
+Crowdsourcing content and improving visitors participation: a case study of Unique Visitors platform
+Cruising through History Wired
+Cultivating mobile-mediated social interaction in the museum: Towards group-based digital storytelling experiences
+Cultural Data Sculpting: Omni-spatial Visualization for Large Scale Heterogeneous Datasets
+Cultural Heritage Outreach and Museum/School Partnerships: Initiatives at the School of Information, University of Michigan
+Cultural Heritage Presentation in Interactive Digital Media
+Cultural Heritage on the Map
+Cultural Programming Using Broadband Technology
+Cultural Technology Showcase
+Cultural Visit Memory: The Visite+ System Personalization and Cultural Visit Tracking Site
+Culture around the Corner and Its Location-Based Application
+CultureSampo—Finnish Culture on the Semantic Web 2.0: Thematic Perspectives for the End-User
+Curating for Broadband
+Curating on the Web: The Museum in an Interface Culture
+Curating the Digital World: Past Preconceptions, Present Problems, Possible Futures
+Custom collections content and generous interfaces
+Customizing for community: Mn Artists' DIWO approach for a truly user-responsive digital project
+Cybernetics, Modernism, and Pleasure in the MoMA Web Site
+DIY Zooniverse citizen science project: engaging the public with your museum's collections and Data
+Dallas Museum of Art Presents The Arts Network
+Dane-Wajich? Dane-zaa Stories and Songs: Dreamers and the Land
+Data Access Strategy
+Data In, Data Out: Content Management for the Web
+Data culture and organisational practice
+Data, Museum Business Processes, and the Web: Integrating Information and Functions
+Data-driven Enriched Exhibits Using Augmented Reality
+Decision Support System for Museum Management through Distributed Wireless Sensing
+Decolonizing Architecture of Participation for the Uganda National Museum: Social-Media Expressions of Ugandan Heritage Sites
+Deep personalization: A case study of systems thinking within an art museum
+Delightfully Lost: A New Kind of Wayfinding at Kew
+Delivering Gallery Interactives Using Web Technologies
+Delivering an Institutional Calendar: A Case Study at the Walker Art Center
+Democratize and Distribute: Achieving a Many-to-Many Content Model
+Deriving Meaning from Specimens: Making Zoological Data Available on the Web
+Design Patterns for Museum Web Sites
+Design Thinking for Visitor Engagement: Tackling One Museum's Big Challenge through Human-Centered Design
+Design and Analysis of Virtual Museums
+Design and Development of a Collections Dashboard
+Design of an Appreciation Support System for Public Art Using Mobile Phones
+Design, Navigation, and Content
+Designing Collaborations: The Interdisciplinary Applications of the National Graphic Design Image Database
+Designing Collaborative Group Experience for Museums with Telebuddy
+Designing Mobile Support Technology for Zoo Interpreters
+Designing Multi-Channel Web Frameworks for Cultural Tourism Applications: The MUSE Case Study
+Designing The Accessible Museum: If I Can Experience It, Everyone Can Experience It Better
+Designing Web User Interfaces Adaptable to Different Types of Use
+Designing a Web Site for Young People: The Challenges of Appealing to a Diverse and Fickle Audience
+Designing digital experiences for families
+Designing tangible Interactions to communicate cultural continuity: ʔeləw̓k̓ʷ — Belongings, a tangible table in c̓əsnaʔəm, the city before the city at the Museum of Anthropology.
+Designing the User Experience: An Evolving Collaboration for Research and Development
+Designing with Web Standards
+Developing Distributed Applications on the Web
+Developing Meaningful On-Line Exhibitions: Cloth & Clay, Communicating Culture
+Developing Teachers' Resources at the Museum of Tolerance: A Case Study in Innovation and Evolution
+Developing a Museum Web Presence for Higher Education—The Evaluation of an Online Course at Richmond, the American International University in London
+Developing a National Strategy for Multimedia Cultural Heritage
+Development, supply, deployment, demand: Balancing the museum digital skills ecosystem:First findings of the
+DiMe4Heritage: Design Research for Museum Digital Media
+Differentiating Online Gallery Spaces within Larger University Branding Initiatives
+DigiBird: On the fly collection integration supported by the crowd
+DigiCulture, a Study in User Behaviours with Digital Cultural Materials in Contemporary Art
+Digital Embryo Library and Collaboratory Tools
+Digital Environment for Cultural Interfaces: Promoting Heritage, Education, and Research
+Digital Extension of the Museum of Marseilles—Towards a Global Museum Built Both in the Real and the Digital World
+Digital Humanities and Crowdsourcing: An Exploration
+Digital Image Managers for the New Millennium: A Museum / University Collaboration
+Digital Media in Everyday Life: A Snapshot of Devices, Behaviors, and Attitudes, Part 1: Mobile Device Ownership
+Digital New Zealand—Helping Make New Zealand Content Easier to Find, Share, and Use
+Digital Primary Source Materials in the Classroom
+Digital Representation and Compression of William Blake
+Digital Storytelling at the National Gallery of Art
+Digital Strategies
+Digital collection content creation at the DMA
+Digital collections, open data and the boundaries of openness: a case study from the National Galleries of Scotland
+Digital strategy in evolution: Issues and responses emerging from the project to develop a digital transformation strategy for Museum Victoria
+Digital tools and how we use them: The destruction and reconstruction of tangible cultural heritage in Syria
+Digitisation of Community Indigenous Knowledge in Developing Countries: A Strategy for Uganda
+Digitising African Oral Narratives in a Global Arena
+Digitising Collections: The Redefining of Museums
+Directing Traffic to Your Website
+Discover Babylon: Creating a Vivid User Experience by Exploiting Features of Video Games and Uniting Museum and Library Collections
+Discovering the Yuan Ming Yuan: From Lyrical to Painterly to Virtual Reality
+Discovering, creating, and sharing digital museum resources: a methodology for understanding the needs and behaviors of student users
+Disintermediation and the Museum Web Experience: Database or Documentary? Which Way Should We Go?
+Distributing a Licensed Resource to Schools and Libraries
+Divide and Conquer: Strategies for Decentralizing Web Content Management
+Diving in at the Deep End—The British Galleries at the V&A
+Diving into the Museum's Social Media Stream: Analysis of the Visitor Experience in 140 Characters
+Do You Know Who Your Users Are? The Role of Research in Redesigning sfmoma.org
+Do it together: The effect of curators, designers, and technologists sharing the making of new interactive visitors' experiences
+Do-It-Yourself DSLR: Take Your Organization's Visual Destiny into Your Own Hands
+Documenting the V&A's Collecting, Publishing, and Exhibiting History
+Doing It for the Kids: Tate Online on Engaging, Entertaining, and (Stealthily) Educating Six-to-12-Year-Olds
+Down to Earth: Social Media and Institutional Change
+Dublin Core and Warwick Framework Metadata for the Description and Location of Networked Information Objects
+Dublin Core: The Base for an Indigenous Culture Environment?
+Dulwich OnView: A Museum Blog Run by the Community for the Community
+Dynamic Generation of Museum Web Pages: The Intelligent Labelling Explorer
+E-Mail Marketing for the Arts: How to Build Effective Online Relationships
+E-Mail Newsletters for the Museum and Its Visitors
+Early Detection of Pairs of Visitors by Using a Museum Triage
+Eavesdropping on Electronic Guidebooks: Observing Learning Resources in Shared Listening Environments
+Edutainment Environments. A Field Report on DinoHunter: Technologies, Methods, and Evaluation Results
+Electronic Volunteers in a Professional Organization
+Electronic textbooks for K12 education: Lessons learned from the Ohio as America redesign
+Embodying the Museum: The Metropolitan Museum of Art's Connections and 82nd & Fifth
+Embodying the Museum: The Metropolitan Museum of Art's Connections and 82nd and Fifth
+Emergent Storytelling: Interactive Transmedia Installation for Digital Cultural Heritage
+Emerging Web-Browsing Alternatives
+Employing Identification in Online Museums
+End Users in the Design Process: Analysis of the Integration of the Human Factors in MusInfo
+Engaging Museums, Content Specialists, Educators, and Information Specialists: A Model and Examples
+Enhancement of the Museum Environment by HDTV
+Enhancing Museum Narratives with the QRator Project: A Tasmanian Devil, a Platypus, and a Dead Man in a Box
+Enhancing Museum Visitor Access through Robotic Avatars Connected to the Web
+Enhancing the Heritage Experience
+Entering through the Side Door—A Usage Analysis of Web Presentations
+Envisioning the E-Quarium: Strategic Design Planning for the Monterey Bay Aquarium's Web Site
+Establishing Sound Practice: Ensuring Inclusivity with Media-Based Exhibitions
+Ethnographic Methods and New Media Preservation
+Evaluating Context-Aware Mobile Applications in Museums: Experiences from the MUSE Project
+Evaluating tangible and multisensory museum visiting experiences: Lessons learned from the meSch project
+Evaluating the Authenticity of Egyptian Cartonnage Fragments: Educational Outreach in Search of the Truth
+Evaluating the Features of Museum Websites (The Bologna Report)
+Evaluating the Impact of Participation in an On-line Citizen Science Project: A Mixed Methods Approach
+Evaluating the Practical Applications of Eye Tracking in Museums
+Evaluating the Usability of a Museum Web Site
+Event Photography for the Modern Museum: How to Capture Moments That Matter
+Examining the Impact of Artificial Intelligence in Museums
+Exhibit Commons: Using the Internet for a New Exhibit Paradigm
+Exhibiting Communications: Digital Narratives at the National Library of Medicine
+Exhibiting the Interface: Curating Computers and Designing Didactic User Experiences
+Exhibits on Demand—Project Goals and Approach
+Expanding Art Museums into Humanities Classrooms: Research on Online Curricula for Cross-Disciplinary Study
+Expanding the Knowledge Base: Managing Extended Knowledge at the National Museum of the American Indian
+Expanding the Storyline
+Expanding the museum since Bilbao: the influence of architecture and technology on museums
+Experience, Learning, and Research: Coordinating the Multiple Roles of On-Line Exhibitions
+Experiencing Art on the Web with Virtual Companions
+Explaining One of Mexico's Most Vital Musical Traditions: The Corridos sin Fronteras Traveling Exhibition and Educational Web Site
+Exploiting Historic Collections On-Line
+Exploiting the Potential of 3D Navigable Virtual Exhibition Spaces
+Exploratorium Informal Science Education in Second Life
+Explorer—Mobile Navigation and Interpretation at the American Museum of Natural History
+Exploring Affective Computing for Enhancing the Museum Experience with Online Collections
+Exploring Gigapixel Image Environments for Science Communication and Learning in Museums
+Exploring Heritage in Participatory Culture: The MuseumApp
+Exploring Motivational Factors and Visitor Satisfaction in On-Line Museum Visits
+Exploring Museum Collections Online: The Quantitative Method
+Exploring key trends in digital experience beyond the museum sector
+Exploring the National Gallery of Australia Online Database for Prints and Printmaking Spatially
+Exploring the Relationship between Visitor Motivation and Engagement in Online Museum Audiences
+Expressing Diverse Institutional Identities through Web 2.0
+Extending the E-Commerce experience: Lessons learned and the questions that remain
+Extending the Virtual Museum: Integrating Museum with Other Kinds of Websites
+Extending the Visitor Experience with Wi-Fi at the Art Institute of Chicago
+Facilitating Access: Empowering Small Museums
+Facing the future: Natural user Interfaces and transmedia spaces in museums
+Fedora, Drupal, and Cloud Computing for a Low-Cost, Sustainable DAM
+Fictional Press Releases and Fake Artifacts: How the Smithsonian American Art Museum Is Letting Game Players Redefine the Rules
+Finding the Motivation behind a Click: Definition and Implementation of a Website Audience Segmentation
+Finding the Muse: Lessons from Partnering with University Students to Build a Museum Educational Site
+Finding the voice: Planning and evaluation of social media in cultural institutions
+Finding value beyond the dashboard
+Finnish Museums on the Semantic Web: The User's Perspective on MuseumFinland
+Five Become One: How Five Manchester Museums Developed a Shared Web Portal
+Flickr Commons: Open Licensing and the Future for Collections
+Flickr: A Social Media Building Block
+Focus Your Young Visitors: -Kids Innovation- Fundamental Changes in Digital Edutainment
+For All the World to Share: Developing and Implementing Accessible Web Sites
+Formative Evaluation Techniques for Film and Beyond
+Forum for Indigenous Culture Building and Preservation
+Free, Open, and Mobile: An Open Platform Solution Changes the Rules of the Game in Museums
+From Boring and Non-Offensive to Dancing Unicorns and Glitter Text: How to Create a Teen Web Site with Teenagers
+From Casual History to Digital Preservation
+From Content Expert to Stakeholder and Maybe Even Creator
+From Crowdsourcing to Knowledge Communities: Creating Meaningful Scholarship through Digital Collaboration
+From Electronic Indices to Digital Rights Management Technology
+From GUI to Gallery: A Study of Online Virtual Environments
+From Guerilla Methods to Structured Evaluations: Examples of Formative Web Design from the Exploratorium's Evidence and Mind project
+From Knowledge to Narrative—to Systems? Games, Rules, and Meaning-Making
+From On-Line Exhibits to On-Line Experiences to On-Line Community: Thirteen Years of Science Centers Experimenting with the Web
+From On-Site to On-Line: Experience on Transforming Exhibition
+From Physical to Digital: Recent Research into the Discovery, Analysis, and Use of Museums Resources by Classroom Educators and Students
+From Pilot to Program: Organizing Content Creation as a Web Site Grows
+From Post-its to Processes: Using Prototypes to Find Solutions
+From Virtually Impossible to the Virtual: Building a Dream Exhibition
+From a Broadband Network to a Cultural Network: Tales of a Cross-Domain Collaboration
+From a Distance: Mobile Phones as Live Broadcasting Devices
+From a learning kit to a major exhibition: Gallipoli in Minecraft®
+From at risk to open access: The Endangered Archives of the world
+From the Ground Up (or the Inside Out): New Approaches in Digital Publishing
+From the Horse's Mouth: How Our Teachers Are Using the Internet
+From the Mountains of the Moon to the Neon Paintbrush: Seeing and Technology
+From 'Come and Get It' to 'Seek and You Shall Find': Transition from a Central Resource to an Information Meta-Centre
+GLAM and the Free World
+GPS-Triggered Location-Based Technologies at Parks Canada: The Explora Project
+Gaining Traction in the Vaseline: Visitor Response to a Multi-Track Interpretive Approach to Matthew Barney: DRAWING RESTRAINT
+Gallery One, the First Year: Sustainability, Evaluation Process, and a New Smart Phone App
+Game Mechanics and the Museum: Designing Simple Gameplay around Complex Content
+Gamifying the Museum: Educational Games for Learning
+Gaming the Museum
+Getting Your Collections Online—Practical Lessons from Successful Projects
+Getting on (not under) the Mobile 2.0 Bus: Emerging Issues in the Mobile Business Model
+Getting the Most out of Our Users OR The Science Museum Lab: How the Dana Centre Lets Us Play
+Getting 'In Your Face': Strategies for Encouraging Creativity, Engagement, and Investment When the Museum Is Offline
+Going Analog: Translating Virtual Learnings into Real Institutional Change
+Going Mobile? Insights into the Museum Community's Perspectives on Mobile Interpretation
+Going Online: Moving Multimedia Exhibits onto the Web
+Great Expectations: Sustaining Participation in Social Media Spaces
+Group Navigation with Handheld Mobile Museum Guides
+Guided Expectations: A Case Study of a Sound Collage Audio Guide
+Guidelines for Pricing and Image Licensing for Web-Based Publications
+Hacking Culture
+Hand-Held Heritage: The Development of Mobile Applications by the Royal Commission on the Ancient and Historical Monuments of Wales
+Hands Online
+Hands-On versus On-Line: Evaluating MarsQuest On-Line
+Handscape—Mobile Computing and Museums
+Harnessing Motion-Sensing Technologies to Engage Visitors with Digital Data
+Harvard Masters Series: Access All Areas
+Harvesting New Mexico's Cultural Resources
+Having Fun or Finding Information? Usability for Kids' Sections on Museum Websites
+Here and There: Managing Multiply-Purposed Digital Assets on the Duyfken Website
+Heritage, Classrooms, and the World Wide Web: A Teacher Educator's Perspective on the Gateway to Learning Materials Project
+Hi-storytelling: Street Museum & Speaking Stones! A Case Study
+Hints and Strategies for the Creation of the One-Person On-Line Web Museum
+Historical Map Collection Web Site
+History at Your Fingertips: Providing Access via Interactive Multi-Touch Technology
+Honoured Guests—Towards a Visitor-Centred Web Experience
+Hot-Button Issues: Using Technology to Address Topicality, Uncertainty, and Controversy in Science Exhibits
+How Do You Like to Learn? Comparing User Preferences and Visit Length of Educational Web Sites
+How Forcible Are Right Words! Overview of Applications and Interfaces Incorporating the Getty Vocabularies
+How Shall We Label Our Exhibit Today? Applying the Principles of On-Line Publishing to an On-Site Exhibition
+How do you museum?: Marketing user-generated content to engage audiences
+How to Be a Digital Leader and Advocate: The Changing Role of the Digital Department
+How to Evaluate Online Success? A New Piece of Action Research
+How to Get More Than 500,000 Visitors in 6 Months
+How to Introduce Digital Transformation to a Museum
+How to Plan Responsive Web Services: Notes
+How to Ride the Digital Wave: A Collaboration Between Museums and the Danish Broadcasting Corporation
+How to Win an Art Prize without Making a Thing: QR codes, Classifications, and Controversy
+Hubble Space Telescope: A Web Resource for Science Museums and Planetaria
+Hybrid Realities: Visiting the Virtual Museum
+I don't know what I'm looking for: Better understanding public usage and behaviours with Tyne & Wear Archives & Museums online collections
+I wonder... Inquiry techniques as a method to gain insights into people's encounters with visual art
+ICA SOUNDWORKS: The CMS-less Website
+IIIF: Unshackle your images
+IMLS Funding for Technology
+Ideas for Museums: A Biography of Museum Computing
+Identity and Representation: Social Justice and Community Building through the Museums of the Person
+If Mobile Is the Answer, What Was the Question?
+If We Build It, Will They Come? A Year of Testing Distance Learning Using the Web
+If You Build It They Will Come…Won't They?—Marketing a Web Presence
+Ignite! Hong Kong Art Portfolio Collection—A New Online Platform Developed by Oi!
+Images as Evidence in Art History and Related Disciplines
+Images for the Future: Digitisation for Access
+Imagining the Internet: How Inexpensive Microprocessors, Cell Phones, and Solid State Servers Can Interact with the Physical World
+Immersing Students in Research at the Gulf of Maine Research Institute
+Immersive Experiences for Museums
+Implementing Mobile Augmented-Reality Applications for Cultural Institutions
+In Line, Online: Curator Buy-in Starting from the Ground Up
+In Other Words: Crowdsourcing Translation for a Video-Driven Web
+In Search of Meaningful Events: Curatorial Algorithms and Malleable Aesthetics
+In Search of the Ubiquitous Digital Museum—Reflections of Ten Years of Museums and the Web
+In the Wireless Economy, the World Is Listening to What It Wants to Hear
+In-Line Graphic Pattern-Directed Search of Archives and Collections
+Inclusive design: From approach to execution
+Income-Producing Activity and the Web
+Industrial Heritage, Memory Preservation, and ICT
+Influences of Concepts and Structure of Documentary Cinema
+Informing or Performing: A Dilemma in Applying High Technologies to a Museum Web Site
+Innovate or stagnate: Disrupting the conventional audio guide
+Inside the Meta Center: A Cabinet of Wonder
+Instagram Trends: Visual Narratives of Embodied Experiences at the Museum of Islamic Art
+Installing the Collaborative Calendar
+Instant Multimedia: A New Challenge for Cultural Heritage
+Integrating Collections Management Information into Online Exhibits: The World Wide Web as a Facilitator for Linking Two Separate Processes
+Integrating Databases with Maps: The Delivery of Cultural Data through TimeMap
+Integrating Museum Artifacts and Technology
+Integrating Real Time Communications Applications in a Museum's Website
+Integrating Visual Thinking Strategies into Educational Web Resources
+Integrating a Traveling Exhibit, Catalogue, and Educational Web Site
+Integrating a Web Component into the Classroom
+Integration of Primary Resource Materials into Elementary School Curricula
+Integration of Print and Digital Publishing Workflows at the Art Institute of Chicago
+Interactive Audio Content: An Approach to Audio Content for a Dynamic Museum Experience through Augmented Audio Reality and Adaptive Information Retrieval
+Interactive Character as a Virtual Tour Guide to an Online Museum Exhibition
+Interactive Development as Pedagogical Process: Digital Media Design in the Classroom as a Method for Recontextualizing the Study of Material Culture
+Interactive Educational Storytelling: The Use of Virtual Characters to Generate Teachable Moments
+Interactive and Customizable Learning Environment for Various Users' Needs—Danish German Virtual Museum Project
+Interface Design for Integrating Disparate Web Sites
+Interfacing the Digital
+Internet: A Dynamic, Living Archive of Digital Art?
+Interpretation and Personalisation: Enriching Individual Experience by Annotating On-Line Materials
+Interstitial spaces: social media as a tool for community engagement
+Intranets: Using Web Tools to Facilitate Communication and Develop Integrated Access to Museum Information
+Introducing socio-technical changes through “Mobile First” in the Museum Application Domain
+Inuit 3D: An Interactive Virtual 3D Web Exhibition
+Invasioni Digitali / Digital Invasions—Co-Creation of Cultural Value
+Investigating Art Museum Web Sites: A Three-Part Approach
+Investigating Heuristic Evaluation: A Case Study
+Is Bigger Better? Web Delivery of High-Resolution Images from the Museum of Fine Arts, Boston
+Is the Web a Communication Tool or Digital Disneyland for Art Works?
+Is this an exhibition or a publication? Defining online resources types in art museums
+It's in the game: can playful digital experiences help organisations connect with audiences in new ways?
+JPEG2000 Implementation at Library and Archives Canada
+Just Do It! Web 2.0 as Task not Technology
+Karma: Tools for Mapping Collection Meta-Data to Linked Open Data
+Keeping the Virtual Social
+Key Ingredients: How the Smithsonian Built an Interactive Web Site for 150 Small Museums
+Knowing Your User: Effective Intellectual Property Management
+KuratorTool
+Ladders of Participation, Social Media, and Museum Audiences
+Launching the MFA Multimedia Guide: Lessons Learned
+Layered learning: developing and utilizing integrated systems through mobile platforms to enrich and expand interpretation
+Learning About Leonardo
+Learning History
+Learning Styles and On-Line Interactives
+Learning by Design: Teachers / Museums / Technology
+Learning from Amazon and eBay: User-Generated Material for Museum Web Sites
+Learning from the People: Traditional Knowledge and Educational Standards
+Learning in 140 Characters: The Future of Museum Learning in a Digital Age
+Learning in the Wild: Evaluating WolfQuest
+Learning to Let Go: Changing Patterns of Participation and Learning through the Digital Collections of the Royal Commission on the Ancient and Historical Monuments of Scotland (RCAHMS)
+Learning@Whitney: Developing a Useful Teaching Tool
+Less Clicking, More Watching: Results from the User-Centered Design of a Multi-Institutional Web Site for Art and Culture
+Lessons Learned from WebExhibits: Practical Suggestions for Good Design
+Lessons Learned: Evaluating the Whitney's Multimedia Guide
+Let's Be Specific: Predicting Return on Investment in On-line Learning Activity Design
+Let's Go Mobile! Design Issues in Multichannel 'Accessible' Applications for Cultural Heritage
+Leveling the Playing Field: Empowering Learners with Primary Sources
+Levelling Up: Towards Best Practice in Evaluating Museum Games
+Lignes de temps: Involving Cinema Exhibitions Visitors in Mobile and On-Line Film Annotation
+Linking Europe's Television Heritage
+Linking Minority Communities through the Web
+Linking and Thinking—The Museum@School
+Listening to Visitors: Research Findings on Mobile Content
+Live Web Broadcasting
+Live@Exploratorium
+Location, Location, Location! The Proliferation of Indoor Positioning and What It Means and Doesn't Mean for Museums
+MEDINA Three Years Later: Towards 'Enterprise Frameworks' for Cultural Tourism Web Applications
+MORITZ: A European Mobile Media Project for Historical Textile Industry Museums
+MP For A Week: An Immersive Game De-mystifying the UK Parliament
+Make Your Museum Talk: Natural Language Interfaces for Cultural Institutions
+Making Good Use of User Input: Incorporation of Public Evaluation into the System Development Process
+Making It Realtime: Exploring the Use of Optimized Realtime Environments for Historical Simulation and Education
+Making Multi-Institution Collaborations Work—Is There a Secret Sauce?
+Making Sense of Historic Photographic Collections on Flickr The Commons: Institutional and User Perspectives
+Making Sense of Modern Art at Five
+Making Sense of Numbers: A Journey of Spreading the Analytics Culture at Tate
+Making Web Sites for Young Audiences
+Making Your Site Accessible
+Making contact: Experiments with digital donations at National Museums Scotland
+Making metadata into meaning: Digital storytelling with IIIF
+Making the Punishment Fit the Crime: Content-Driven Multimedia Development
+Many Heads Are Better Than One
+Mapping civic art assets in Los Angeles County
+Mapping the Way to a More Digitally Inclusive Museum
+Mastering the Art and Science of Formative Evaluation in Art Museums
+Measuring Success; Changing Museums
+Media Stories: An Integrative Storytelling in Physical and Virtual Spaces
+Meeting the Real User: Evaluating the Usability of Tate's Website
+Memory and Territory: New Forms of Virtuality for the Museum
+Meta-Centers: Do They Work and What Might the Future Hold. A Case Study of Australian Museums On-Line
+Meta-Data Resource Discovery and Educational Information on the Internet: The Gateway to Educational Materials (GEM) Project
+Metadata for Digitally Distributed Video Games at the Seattle Interactive Media Museum
+Methodology for Cultural Web Design (CDM)
+Migrating a Complex Museum Website from a Commercial CMS to Drupal
+Miss Traill's House: A DIY Internet House Museum for Classroom Use
+MisterDarwin.eu: A Web Exhibition Based on 2.0 Interactivity
+Mixed Reality Technology at a Natural History Museum
+Mixing It Up: Developing and Implementing a Tagging System for a Content-Rich Website Which Uses Aggregated Content from Multiple Sources
+Mixing Messages: Graphic Design in Contemporary Culture
+Mixing Realities to Connect People, Places, and Exhibits Using Mobile Augmented-Reality Applications
+MoMA.org and MoMAstore.org: The Crossover
+MoMo: A Hybrid Museum Infrastructure
+Mobile Devices for Orientation and Way Finding: The Case of the British Museum Multimedia Guide
+Mobile Guides and Context-Specific Educational Mobile Games
+Mobile Means Multi-Platform: Producing Content for the Fast-Changing Mobile Space
+Mobile Phones and Visitor Tracking
+Mobile Phones: A New Way to Engage Teenagers in Informal Science Learning
+Mobile Technologies and Cultural Institutions: A Design Perspective
+Mobile application to enhance the visiting of a cemeterial museum space: Technology for education and culture
+Mobile bouleversement
+Mobile: From responsive to mobile moments
+Modeling Crowdsourcing for Cultural Heritage
+Modeling the Meaning of Museum Stories
+Models for a New Visitor-Centered Museum: Using the Web to Create Community and Continuity for the Museum Visitor
+Monuments for a departed future: Designing for critical engagement with an ideologically contested museum collection
+More Than the Sum of Its Parts: Pulling Together User Involvement in a Museum Website
+More than views: Diving into video analytics beyond view counts
+Moving Outside the Boundaries—How Museums Can Engage Audiences beyond Their Walls
+Moving from downloads to uploads: Toward an understanding of the curricular implications of access to large scale digitized museum collections on the professional practice of K–12 classroom educators
+Mo' Pixels Mo' Problems: Moving toward a Resolution-Independent Web
+Mr. Steam and 'The Train Is Our Friend': An Interactive System to Welcome School Children to the Museum
+Mubil, a Digital Laboratory: Creating an Interactive Visitor Experience in a Library-Museum Environment
+Multi-Environment and Device Framework for Tourist Experiences in Smart Cities
+Multimedia Handhelds: One Device, Many Audiences
+Multimedia Interpretation of a Restoration: Leonardo da Vinci, Painter in Milan
+Multimedia Tour Programme at Tate Modern
+Multimodal Interaction for the World Wide Web
+Multimuseum: A Multichannel Communication Project for the National Museum of Cinema of Turin
+Multiple Uses of Data in the Museum Environment
+Museomix: People Make Museums
+Museophile: A Community for Museum e-Commerce
+Museum Commons: Tragedy or Enlightened Self-Interest?
+Museum Documentation and Wikipedia.de: Possibilities, Opportunities, and Advantages for Scholars and Museums
+Museum Event and Twitter Marketing: A Case Study from Indonesia
+Museum Expansions and the 'Utility' of Web-Based Public Information
+Museum Games: Some Strategies for Achieving Project Goals
+Museum Images On-Line: Meeting the Needs of Educators
+Museum Internships as Catalysts for Change
+Museum Making: Creating with Emerging Technologies in Art Museums
+Museum Metadata in a Consortial Environment
+Museum Web Sites' Interface Elements: 'Do Users Understand Them?'
+Museum as Ecology: A Case Study Analysis of an Ambient Intelligent Museum Guide
+Museum as Memoryscape: The Virtual Shtetl Portal of the Museum of the History of Polish Jews
+Museum at your fingertips: telepresence tours for schools
+Museum of the Person: A Brazilian Experience of Virtual Museum
+Museum on the Street: Building a community digital heritage exchange in Hastings, UK
+Museum3D: Experiments in Engaging Audiences Using 3D
+Museums & Wikis: Two Case Studies
+Museums Presenting Past through Digital Technologies: MAV (Museo Archeologico Virtuale) of Ercolano and Site-Museum of Pont du Gard Case Studies
+Museums and Cloud Computing: Ready for Primetime, or Just Vaporware?
+Museums and Libraries in the Age of the Internet: Lessons Learned from a Collaborative Website
+Museums and WWW-Based Art Education
+Museums and the playful web – a revolution in sense-making
+Museums as creative labs: 3D food printing inspired by culinary heritage in the context of makerspaces
+Museums in Social Media
+Museums on Twitter: Three Case Studies of the Relationship between a Museum and Its Environment
+Museums on social media: Analyzing growth through case studies
+Museums without walls: Breaking across the borders of organizational structure and preparing the next generation of museum professionals in the digital age
+Musing, media, and mediation: Social media and museum learning.
+My Evidence: Who's the Authority Here?
+My Karsh
+NTT Multimedia Communications Laboratories, Inc.
+NZMuseums: Showcasing the Collections of All New Zealand Museums
+NanoAventura
+Narrating Culture on the Web: Assisting Audience Participation through Reading Rhetoric and Innovating Online Forum Design
+Native American Art in Cyberspace
+Navigating the Bumpy Road: A Tactical Approach to Delivering a Digital Strategy
+Networked Multi-Sensory Experiences: Beyond Browsers on the Web and in the Museum
+New Architectures for Online Collections and Digitization
+New Ideas / New Audiences
+New Media Art: New Challenges for Museums in the 21st Century
+New Media Demands New Structures
+New Technology Brings New Life to Art History: The Piero Project Story
+New Vision, New Reality: Methodology and Mission in Developing Interactive Videoconference Programming
+New Ways to Search, Navigate, and Use Multimedia Museum Collections over the Web
+New Web-Based Interfaces to Old Databases
+No. It doesn't distract from the art.
+Northern Journeys: Infrastructure Design
+Now That We've Found the 'Hidden Web' What Can We Do With It? The Illinois Open Archives Initiative Metadata Harvesting Experience
+Ntsayka Ikanum: A Native American Approach to the On-Line Experience
+Nurturing Engagement: How Technology and Business Model Alignment Can Transform Visitor Participation in the Museum
+OPALES: An Environment for Sharing Knowledge among Experts Working on Multimedia Archives
+Object Immersion: Database-Driven VRML and Robocam Technology in the Virtual Museum
+Object-Centred Democracies: Contradictions, Challenges, and Opportunities
+Of Ansel and Atomz: Surfacing Deep Content On-Line and On-Site at SFMOMA
+Offering Distance Education on the Web: How a University Gallery Uses the Web to Teach Art Appreciation
+On A New Threshold: Experiments In Gaming, Retail And Performance Design To Shape Museum Entrances
+On Air, Online, and Onsite: The British Museum and BBC's 'A History of the World'
+On Being Open [Introduction]
+On Beyond Label Copy: Museum-Library Collaboration in the Development of a Smart Web Exhibit
+On-Line Collections Access at the Museum of English Rural Life
+On-Line Exhibit Design: The Socio-Technological Impact of Building a Museum over the World Wide Web
+Once upon a Time: Using New Narratives in Educational Web Sites
+One Site Fits All: Balancing Priorities at Tate Online
+One Size Does not Fit All: Learning Style, Play, and Online Interactives
+One Wright Way: From Collections to Classrooms
+One-to-One: Supporting Artist-Visitor Dialogue
+Online Exhibitions
+Online Exhibitions: A Philosophy of Design and Technological Implementation
+Online Heritage Presentation in Flanders
+Online Museum Educators: The Role of Real Teachers in the Online Museum Exhibition Process
+Online Primetime—Promoting via Portals and Other Traffic-Building Tricks
+Online Professional Development: Challenges and Rewards
+Online Scholarly Catalogues at the Art Institute of Chicago: From Planning to Implementation
+Online scholarly catalogues: Data and insights from OSCI
+Open Culture Data: Opening GLAM Data Bottom-Up
+Open Innovation and Open Source: A Guide for Content Developers
+Open Systems, Loosely Coupled: Creating an Integrated Museum eCommerce System for the MCA
+Open hardware belongs in your museum
+Open innovation: Open movements and the role of a museum in the 21st century.
+Open is as open does. How to use open content in a personalized interactive museum exhibit
+Open the Gates to the Virtual Visitors! (The M.A.M.A.-Hungarian Museums Database-Project)
+OpenCollection Web-Based Collection Cataloging and Access Software
+Opening Anthropological Archives to the World. Do I Have the Right to Upload?
+Opening Plenary
+Operation Sigismund
+Opportunities for Museums in the Knowledge Society
+Oral History Interactives: Going beyond the Interview to Create Multimedia Experiences
+Organisational Change for the On-line World—Steering the Good Ship Museum Victoria
+Our work is never done: evaluation and iteration for a new audio guide
+Out There: Connecting People, Places, and Stories
+Out There: Museum- and User-Generated Content on Social Media Sites
+Out of Our Mines! A Retrospective Look at Online Museum Collections-Based Learning and Instruction (1997–2006)
+Outsourcing of Museums on the Web Projects in Russia
+Page Turning: Revealing the Interface Issues of On-Line Document Viewing
+Parliament and the British Slave Trade 1600–1807
+Participation, Flow, and the Redistribution of Authorship: The Challenges of Collaborative Exchange and New Media Curatorial Practice
+Participatory Experiences in Art Museums: Lessons from Two Years of Practice
+Particle or Wave? Linear and Non-Linear Storytelling in Museums
+Partners, Profiles, and the Public: Building a Virtual Museum Community
+Pathways to Discovery: Supporting Exploration and Information Use in Cultural Heritage Collections
+Pedagogy and Design: Understanding Teacher Use of Online Museum Resources
+Personal and Social? Designing Personalised Experiences for Groups in Museums
+Personalization and the Web from a Museum Perspective
+Personalized Museum Experience: The Rijksmuseum Use Case
+PhilaPlace to AnyPlace: Building a Reusable Community Platform for Mapping and Sharing History
+Photo Genic: Engaging Audiences Using Photography
+Physical Keys to Digital Memories: Reflecting on the Role of Tangible Artefacts in 'Reminisce'
+Picture War Monuments: Creating an Open-Source, Location-Based Mobile Platform
+Pictures and People: Distributed Query Database Collaboration
+Pimp My Site Architecture: Reorganization and Usability Tools and Tactics to Reinvigorate Museum Web Sites on a Budget
+Pimp My Website: Tech Tools to Redesign and Reinvigorate Museum Websites on a Budget
+Place-Based Storytelling Tools: A New Look at Monticello
+Play It Again, SAMI—Finding a Tune Museums Might Learn to Hum
+Playful Engineering: Designing and Building Art Discovery Systems
+Playing Exhibitions: Gaming On-Line and In-Gallery
+Playing with Difficult Objects—Game Designs to Improve Museum Collections
+Playtesting PlanetMania: A Mobile Game for Museum Exhibits
+Please Feel the Museum: The Emergence of 3D Printing and Scanning
+PoliCultura Portal: 17,000 Students Tell Their Stories about Cultural Heritage
+Posing with Art: Researching and Designing for Performative Acts of Interpretation
+Possibilities and constraints for virtual visits: Experimental approaches to VR at the Smithsonian American Art Museum
+Practical Ontology: Collaborating and Communicating with Concept Maps
+Practicing What We Teach: How Learning Theory Can Guide Development of Online Educational Activities
+Pre-Testing to Predict Participation in Online Communities
+Preparing Personalized Multimedia Presentation for a Mobile Museum Visitors' Guide: A Methodological Approach
+Presenting the Evidence: Scottish Museums and e-Learning
+Preserving History for Future Generations at The King Center
+Private Room: Preserving Works at the Achenbach Foundation
+Project Naming: Always on Our Minds
+Promoting a Museum Website on the Net
+Protecting a Museum's Digital Stock through Watermarks
+Prototype an Interactive Exhibit in 90 Minutes
+Providing Accessible Online Collections
+Providing Deaf and Hard-of-Hearing Visitors with On-Demand, Independent Access to Museum Information and Interpretation through PDAs
+Providing Personal Assistance in the SAGRES Virtual Museum
+Publishing Digital Museum Collections on the Web Using the Metadata Assignment and Search Tool
+Putting Mallala on the Map: Creating a Wiki Community with Now and Then
+Putting Museum Collections on the Map: Application of Geographic Information Systems
+Putting the Museum Experience in the Web-User's Home
+Pyramid Power: A Train-the-Trainer Model to Increase Teacher Usage of the ArtsConnectEd On-Line Resource
+Quick and Dirty Dublin Core: Examples with FileMaker
+QuickTime Virtual Reality and Museums on the Internet
+R
+RDF—How Can Museums Take Advantage of It?
+Radical Trust: The State of the Museum Blogosphere
+Radically Open Cultural Heritage Data on the Web
+Rapid Prototyping and Collaboration Using Google Wave
+Re-Assessing Practice: Visual Art, Visually Impaired People, and the Web
+Re-Purposing of Content and Digital Delivery Convergence: Implications for Interface Design
+Reaching School-Based Users with Museum Digital Content: A Comparative Analysis of New Initiatives in Australia and Canada
+Realizing New Means: Networked Access to Research Collections
+Recipes for Tangible and Embodied Visit Experiences
+Reconsidering Searching and Browsing on the Cooper Hewitt's Collections Website
+Reconstructing Rosie: A Digital Experiment in Facial Reconstruction
+Recontextualizing the Collection: Virtual Reconstruction, Replacement, and Repatriation
+Records go visual: Digitizing, exhibiting, and contextualizing archives from the House of Representatives
+Redesigning Your Museum
+Redrawing Borders—Building Asia's Museum Culture in the Digital Age
+Reflecting Organizational Change in On-line Presence
+Release Your Local Species into the iOS Ecosystem
+Remixing Exhibits: Constructing Participatory Narratives with On-Line Tools to Augment Museum Experiences
+Removing the barriers of Gallery One: a new approach to integrating art, interpretation, and technology
+Renwick Hand-Held Education Project
+Representing Asia: Building a Web Site for the Musée Guimet, Paris
+Representing the Web: How has the National Museum of American History collected and curated internet-related technology?
+Reprogramming The Museum
+Requirements and Architecture for Administration and Maintenance of Digital Object Libraries
+Research Project about the User Experience Design in Web Museums in Brazil: The Case of the Website
+Researching and Presenting a History of New Media: Ten Years of the Banff New Media Institute
+Respondent
+Responsive Design: How Museums Can Thrive in the Universe of Desktops, Tablets, Smartphones, and More
+Rethinking Evaluation Metrics in Light of Flickr Commons
+Revealing Things: An Experiment in Museum Web Sites
+Revelation: Pioneering International Education Using Hominid Remains and High-Fidelity Digital Models
+Revising the Finnish National Gallery's Web Pages
+Rhizomatic Art Stories—Balancing between Innovation and Usability
+Rich Experiences for All Participants
+Rijksmuseum mobile first: Rijksstudio Redesign and the new Rijksmuseum app
+Rijksstudio: Make Your Own Masterpiece!
+Rousing the Mobile Herd: Apps That Encourage Real Space Engagement
+Russian Museums on the Web: Problems and Experience
+SAMR: a model for technology integration in museums
+SFMOMA's Art Game Laboratory: Real-Life Mad Science Experiments in Visitor Engagement
+SGML: Show Me Which Road I'm On
+SHADE Smithsonian-Hunterian Advanced Digital Experiments
+SMartART “When the Images Speak of Art”
+SaaSy APIs (Openness in the Cloud)
+Save the Date: Producing Calendar Content for Multiple Platforms
+Save—So What Do You Put on Your Web Site?
+Scaling Up: Engagement Platforms and Large-Scale Collaboration
+Scholarly Information-Seeking Behaviour in the British Museum Online Collection
+School and Museum on the Net
+School of Tech: Educating Experts in Cultural Heritage Multimedia
+Science Bulletins: Cross-Media Publishing of Current Science Stories
+Science LinX: the NeXt Level in Augmenting Science Center Xperiences
+Science Mobilized: Bringing Up-to-the-Minute Headlines into the Museum and Back Out Again: The Times Square of Science and Technology
+Science Museum Learning Collaboratories: Helping to Bridge the Gap between Museums
+Search Engines Are Not Rocket Science—A Look at Current Search Engine Technology
+Search Engines and On-Line Museum Access on the Web
+Search and Deploy: Solving the Silo Problem with XML Document Databases
+Searching and Annotating Virtual Heritage Collections with Semantic-Web Techniques
+Searching for Meaning, not Just Records
+Seeing Tibetan Art through Social Tags
+Seeing the Forest and the Trees: How Engagement Analytics Can Help Museums Connect to Audiences at Scale
+Seeking Balance in the Online Video Landscape
+Selling More without Selling Out: Museum Merchandising That Supports a Museum's Mission
+Semantic Dissonance: Do We Need (and Do We Understand) the Semantic Web?
+Sensing context: Reflexive design principles for intersensory museum interactions
+Sensors and Microcontrollers to Augment User Experience
+Seoul Museum Week 2013: Collaboration Using Gamification
+Serendipity and readability: Building an engaging online collection site with limited resources
+Service design thinking for museums: Technology in contexts
+Serving Tea on the Rapids: An Architectural Approach for Managing Linked Open Data
+Serving researchers in a self-service world
+Shaping Pachyderm 2.0 with User Requirements
+Sharing Cultural Entitlements in the Digital Age: Are We Building a Garden of Eden or a Patch of Weeds?
+Sharing Cultural Heritage the Linked Open Data Way: Why You Should Sign Up
+Sharing Museum Experiences: An Approach Adapted for Older and Cognitively Impaired Adults
+Sharing Stories: Putting the Illinois State Museum Audio-Video Barn Online
+Sharing and Reuse of Museum Objects in Learning Environments
+Sharing the Experience: The Building of a Successful Online/On-Site Exhibition
+Shipwrecks on the Web: Guernsey Museum and the NAVIS Project
+Silhouette Interaction Translator
+Situated Knowledge and the Virtual Science and Industry Museum: Problems in the Social-Technical Interface
+Situating Cultural Technologies Outdoors: Designing for Mobile Interpretation of Rock Art in Rural Britain
+Skill and sensibility: The Creative Producer
+Skills and Toolset for Creating an Online Image Database
+Small Shop, Big Site
+Smart Technology for Smart Regeneration of Cultural Heritage: Italian Smart Cities in Comparison
+So We've Got a Web Site, Now What?
+Social Mapping: What Is It and Why Should We Care?
+Social Media Tactics for Culture Projects: Lessons from the Heritage at Play Project
+Social Media and Organizational Change
+Social Presence: New Value for Networked Museum Audiences
+Software Tools for Indigenous Knowledge Management
+Sound Design: Using Audio as a Creative Tool
+Sounds of the Sea: Making a Mixed-Reality Oral History Application for the St Ives Archive
+South Africa, Storytelling, and the Web
+Spatial AR Hologram: A New Exhibition System Combining Augmented-Reality Technology with Conventional Holographic Display
+Spotlight VR/AR: Innovation in transformative storytelling
+Squaring the Triangle: Implications of Broadband for Access, Diversity, and Accessibility in Museum Web Design
+Stakeholders: How to select, classify, and engage them for successful project outcomes in museums
+Starting Small, Thinking Big
+Starting a Digital Revolution
+State-of-the-Art: German Museums on the Social Web. Benefits and Effects of Social Media for Museum Education and Learning
+Statistics, Structures, & Satisfied Customers: Using Web Log Data to Improve Site Performance
+Staying safe: cybersecurity in modern museums
+Steve in Action: Social Tagging Tools and Methods Applied
+Steve.museum: An Ongoing Experiment in Social Tagging, Folksonomy, and Museums
+Story Board: Hardly the Jank-Fest It Could Have Been
+Story of Glass: Still Really Working 10 Years On
+Storyteller—World War One: Love and Sorrow: A Hybrid Exhibition Mobile Experience
+Storyteller—World War One: Love and Sorrow—A Hybrid Exhibition Mobile Experience
+Storytelling of a Coin Collection by Means of RTI Images: The Case of the Simoneschi Collection in Palazzo Blu
+Storytelling with mobile augmented reality on Omaha Beach: Design considerations when reconstructing an historical event in situ
+Storytelling, Learning, and Adaptivity: A Difficult Mixing
+Strategies against Architecture: Interactive Media and Transformative Technology at Cooper Hewitt
+Strategies for Connecting Religious Cultural Heritage: The Role of Technologies in an On-Field Experimental Action of Museo Diocesano, Milan
+Strategies for the Interactive Narrative
+Streaming Audio and Video: New Challenges and Opportunities for Museums
+Strength in Numbers: Complementary Approaches to Content on Collaborative Museum Websites
+Structuring for digital success: A global survey of how museums and other cultural organizations resource, fund, and structure their digital teams and activity
+Success Strategies for Engaging Audiences with Museum Website Blogs
+Successful projects start with better RFPs
+Supporting Social Interaction: A Collaborative Trading Game on PDA
+Surviving Change: The First Step toward Sustaining Your Digital Library
+Sustaining the heartbeat of your museum's content strategy
+Swiss National Museums—The Design of a Virtual Museum
+Synthetic classification of museum artifacts using basic concepts
+Systematically Speaking: How Do Natural History Museum Web Sites Represent Science?
+THE VIRUS: Context-based learning programs in the museum environment
+Tactics and Decision Making for Successful Museum Digital Projects
+Tag! You're It! What Value Do Folksonomies Bring to the Online Museum Collection?
+Tagging and Searching—Serendipity and Museum Collection Databases
+Take Two: A Study of the Co-Creation of Knowledge on Museum Web 2.0 Sites
+Taking Membership Digital
+Taking Teaching by the Tusks: Introducing Pachyderm 2.0
+Taking a Museum Experience to Your Real World with the VOLUMEONE
+Taking the Collection out of the Gallery
+Taking the Museum to the Streets
+Tales of the Unexpected: A Pragmatic and Candid View of Life Post-Launch
+Tasting together: Podcasts and meaningful community engagement
+Tate Online Courses
+Taxonomies of New Media Art—Real World Namings
+Te Ara—The Encyclopedia of New Zealand: An Encyclopedia Created for the Web
+Teacher as Student, Student as Teacher: Teaching and Learning through Direct Experience
+Tear Down the Walls: The Re-Design of ArtsConnectEd.org
+Techniques for Prioritizing, Road-Mapping, and Staffing Your Web Site: A Feature-Prioritization Primer
+Teens Connect to Art and Each Other at u.l.k.: Statens Museum for Kunst Embraces User-Created Content and Social Networking on Its New Site for Teens
+Teens use tech to talk art: Amplifying teen voice and art interpretation
+Telling Stories: Procedural Authorship and Compelling Museum Databases
+Telling an Old Story in a New Way: Raid on Deerfield: The Many Stories of 1704
+Ten Years On: Hopes, Fears, Predictions, and Gambles for UK Museums On-Line
+The (post) digital visitor: What has (almost) twenty years of museum audience research revealed?
+The 24-Hour Museum Tunable RSS News Feed
+The 24-Hour Museum: Connecting Museum Content to the Grid for Learning
+The 360-degree view: Why an integrated CRM platform is important in growing a museum's membership program
+The ABC's of cultural curating
+The API as Curator
+The Accessibility of Museum Web Sites: Results from an English Investigation and International Comparisons
+The Agile museum
+The Art of Storytelling: Enriching Art Museum Exhibits and Education through Visitor Narratives
+The BABEL Project: A Museums and Libraries Network
+The Baumann Marionette Project: Virtual Marionettes Take the Stage
+The Best of Intentions: Public Access, the Web and the Evolution of Museum Automation
+The Blanton iTour—An Interactive Handheld Museum Guide Experiment
+The Broad: A New Art Museum in the Digital Age
+The Brooklyn Visual Heritage Website: Brooklyn's Museums and Libraries Collaborate for Project CHART
+The Changing Role of the Museum Webmaster: Past, Present, and Future
+The CollectionWeb Digital Ecosystems: A Semantic Web and Web 2.0 Framework for Generating Museum Web sites
+The Commons on Flickr: A Primer
+The Community as the Centrepiece of a Collection: Building a Community of Objects with the National Vending Machine
+The Delphi Toolkit: Enabling Semantic Search for Museum Collections
+The Design and Development of an Online Exhibition for Heritage Information Awareness
+The Digital Darwins Project
+The Digital Dead Sea Scrolls—Working on a Google Cloud
+The Digital Footprint
+The Digital Hammurabi Project
+The Digital-Signs in the Map of Mexico 1550
+The Effect of Surrogation on Viewer Response to Expressional Qualities in Works of Art: Preliminary Findings from the Toledo Picture Study
+The Electronic Guidebook: Using Portable Devices and a Wireless Web-Based Network to Extend the Museum Experience
+The End of the Mausoleum: Museums in the Age of Electronic Communication
+The Epiphany Project: Discovering the Intrinsic Value of Museums by Analysing Social Media
+The European Cycloramas—19th-Century Virtual Reality and the Internet
+The Extended Museum Visit: Documenting and Exhibiting Post-Visit Experiences
+The Future of Digital Interpretation: Gallery Objects as Service Avatars
+The Future of the Past: Archaeology and Anthropology on the World Wide Web
+The Gernsback Machine: Towards a Museum of Possible Futures and Probable Pasts
+The Global Gathering Place: Exploring the Ethnocultural Diversity of Canada on the Web
+The Great Map
+The Handheld Handbook: Capturing Best Practices in Mobile Interpretation for Museums
+The HyperMuseum Theme Generator System: Ontology-based Internet Support for the Active Use of Digital Museum Data for Teaching and Presentation
+The Immersive Period Room: Historic and Contemporary Approaches to Interactive Storytelling
+The Importance of Integrity in Virtual Environments : A Discussion of New Approaches to the Web
+The Importance of a Virtual Museum in a Third World Country: The Experience of MUVA, Virtual Museum of Arts El Pais
+The Infinite Museum: An Innovative Digital Platform to Transform the Museum Visitor Experience
+The Inside Out Web Museum
+The International Museum Community's Position in the Internet Domain Name System
+The Interpretation of Bias (and the Bias of Interpretation)
+The Invisible Person: An Interactive Virtual Environment at the Technisches Museum Wien
+The King's Kunstkammer: Presenting Systems of Knowledge on the Web
+The LAKE experience
+The Little Search Engine That Could: How an Online Database Is Paving the Way for Enhanced Access to Research Collections
+The Living Museum: Supporting the Creation of Quality User-Generated Content
+The Localized Learner: Acknowledging Distance and Situatedness in On-Line Museum Learning
+The Me/Us/Them Model: Prioritizing Museum Social-Media Efforts for Maximum Reach
+The Mentora Alsina: A Century of Experimental Physics Teaching in Barcelona
+The Meta Art Museum: Towards the Promise of an Open Collaboration Platform
+The Minnesota Communities Project: Using the Internet to Teach Your Students Primary-Source Skills
+The More You Look the More You Get: Intention-Based Interface Using Gaze-tracking
+The MultiMatch Project: Multilingual/Multimedia Access to Cultural Heritage on the Web
+The Museum Digital Experience: Considering the Visitor's Journey
+The Museum Innovation Model: A museum perspective on innovation
+The Museum Top-Level Domain: An Update
+The Museum Wearable
+The Museum as Digital Storyteller: Collaborative Participatory Creation of Interactive Digital Experiences
+The Museum as a Forum for the Nation
+The Museum: A Building Type in Transition
+The Mystery of the '1940s Time Traveller': The Changing Face of Online Brand Monitoring
+The NASA Night Sky Network and Its Benefit to Museums
+The National Museums Online Learning Project Federated Collections Search: Searching across Museum and Gallery Collections in an Integrated Fashion
+The Natural History Museum of Florence and Its Social-Media Communication Strategies
+The Next Generation—'Knowledge Environments' and Digital Collections
+The On-Line and the On-Site Holocaust Museum Exhibition as an Informational Resource
+The Paris Pages Experience: 30 Months and 100 Million Accesses Later
+The People's Collection Wales: Sustaining a national, collaborative, bilingual digital programme in its first decade
+The Potential of Museum Web Sites for Art Conservation and Historic Preservation
+The Quilt Index Goes 2.0: A Fiberspace Case Study
+The Reciprocal Research Network
+The Roar of a Virtual Campfire: Using Video Podcasts to Attract Young Adults to New York
+The SEE Experience: Edutainment in 3D Virtual Worlds
+The School as the Crowd: Adventures in Crowdsourcing with Schools
+The Service Oriented Museum Web
+The Small Museum Web Site: A Case Study of the Web Site Development and Strategy in a Small Art Museum
+The Specialist Seeks Expert Views: Managing Digital Folders in the AQUARELLE Project
+The State of the Art in Museum Handhelds in 2003
+The Student Interactive Imaging Program: Developing Marketable Technical Skills through a Web-Enabled Database Project
+The Trade in Digital: Partnerships and Collaboration in the Content Economy
+The Transition to Online Scholarly Catalogues
+The Treasure Hunt Game Generator—A System and Its Application at the Hecht Museum
+The Use of FileMaker for Museum Databases (Collection, Contact, and Program Databases)
+The Use of Social Media in the Danish Museum Landscape
+The Use of an Information Brokering Tool in an Electronic Museum Environment
+The Use, Usefulness, and Value of Museums in the U.S
+The Uses of Virtual Museums: The French Viewpoint
+The Virtual Aura—Is There Space for Enchantment in a Technological World?
+The Virtual Collection of the Musées du Nord-Pas de Calais, Some Thirty French Museums
+The Virtual Docent
+The Virtual Leopold Fleischhacker Museum
+The Virtual Library Museums Pages (VLmp): Whence and Whither?
+The Virtual Museum of New France, a Museum That Exists Only on the Internet
+The Virtual Museum of the University's Cultural Heritage of the Universidad Nacional Aut
+The Virtual Ramp to the Equivalent Experience in the Virtual Museum: Accessibility to Museums on the Web
+The Web Site Development Process at the Children's Museum of Los Angeles
+The Web and Contemporary Collecting: A Powerful Combination
+The Web and the Horse in the Cave: New Technologies and the Meaning of Art
+The Web and the Unassailable Voice
+The Website of the UK Museum of the Year, 1999
+The Whitney Goes to School: Chaos and Hopper
+The Whole Story, and Then Some: 'Digital Storytellin' in Evolving Museum Practice
+The Whys and Hows of Deinstitutionalization
+The X, Y, and Z of Digital Storytelling: Dramaturgy, Directionality, and Design
+The de Young Museum App by Guidekick as a model for collaborative development, technological innovation, and visitor behavior insight
+The digital museum: On studying new trajectories for the music museum
+The effects of learning styles and cultural background on understanding the information architectures (IAs) of information rich websites
+The first W—A Web Site for Non-English-Speaking Audiences
+The new Prado Museum website: A (semantic) challenge
+The next generation of digital publishing: Integrated strategies for online scholarly content at SFMOMA
+The people vs. technology: A guide to harnessing playful tech to engage audiences in new ways
+The portARble museum: Developing augmented reality for the Web using AR.js
+The process of involving children with autism in the design of a museum-based app
+The technical aspects of museum information vs. the museum professionals point of view: a conceptual change of perspective on data processing
+There's Something Happening Here, What It Is Ain't Exactly Clear
+Think Different: Combining Online Exhibitions and Offline Components to Gain New Understandings of Museum Permanent Collections
+Think Globally, Act Locally: The Role of Real Teachers in Community Science Issues
+Thinking Critically about Virtual Museums
+Thinking: Aesthetics, Architecture, and Ambience
+This Is Our Playground: Recognising the Value of Students as Innovators
+Three-dimensional (3D) Imaging: A Glimpse into the Future!
+Ticket scalping technology and the effects on the arts and cultural markets
+Ticketing 2017: Two new projects take on complex challenges
+Time for Renovations: A Survey of Museum Web Sites
+Time to Stop Doing and Start Thinking: A Framework for Exploiting Web 2.0 Services
+Time-Travels in Virtual Online Landscapes: New Presentation Possibilities with Online Virtual Reality
+To Use or Not to Use? Evaluating Usability of Museum Web Sites
+To journey in Twitter canoes: Methods to understand the mechanisms and meaning in Twitter conversations
+Today's Authoring Tools for Tomorrow's Semantic Web
+Touch Van Gogh and Be Touched—How New Media Are Transforming the Way We Present Complex Research
+TourML: An Emerging Specification for Museum Mobile Experiences
+Towards Community Contribution: Empowering Community Voices On-line
+Towards New Metrics of Success for Online Museum Projects
+Towards Open Museums: The Interconnection of Digital and Physical Spaces in Open Environments
+Towards Tangible Virtualities: Tangialities
+Towards a Virtual Community
+Towards comparative methods for evaluating cross-cultural digital creativity in museum exhibitions
+Transcending the Boundaries of the Museum! Managing Organisational Change in the Museum and on the Web
+Transcribing between the lines: crowd-sourcing historic data collection
+Transforming a museum through product management
+Transforming the Art Museum Experience: Gallery One
+Translating Live Performance Educational Theater into the Digital Realm
+Transmedia Storytelling and Cultural Heritage Interpretation: The CULTE Project
+Understanding Sharing Habits in Museum Visits: A Pilot Study
+Understanding the Distributed Museum: Mapping the Spaces of Museology in Contemporary Culture
+Understanding the Museum Experience: A Review of Visitor Research and Its Applicability to Museum Web Sites
+Unexpected Help with Your Web-Based Collections: Encouraging Data Quality Feedback from Your Online Visitors
+Uniting the Shanty Towns—Data Combining across Multiple Institutions
+Universal Design of Computer Interactives for Museum Exhibitions
+Unlocking the Treasure Chest Using SCRAN Tools
+Unseen Discussions: artist@hotmail.com
+Use and Impact of Digital in Cultural Heritage: Insights from the Scottish Network of Digital Cultural Resources Evaluation
+User Evaluation in the Retrieval of Digital Art Images
+User Evaluation: Sharing Expertise to Build Shared Values
+User Expectations
+User Modeling, Personalization, and Adaptivity: Potential Keys to Success for FIBAC Project
+User-Centered System Design
+Using Cinematic Techniques in a Multimedia Museum Guide
+Using Commodity Hardware as an Affordable Means to Track On-Site Visitor Flow
+Using Coyote to Describe the World
+Using Grid-Based Web Design to Optimize Content Authoring and Presentation
+Using Interactive Broadband Multicasting in a Museum Lifelong Learning Program
+Using Mobile Devices to Help Teachers and Students during a Visit to a Museum
+Using Museum Web Sites to Change Visitors' Real-World Behaviour
+Using Online Maps for User-Generated Content in Museums
+Using Open Source Tools to Expose YCBA Collection Data in the LIDO Schema for OAI-PMH Harvesting
+Using Primary Data to Design Web Sites for Public and Scientific Audiences
+Using Standardized Methods to Present Three-Dimensional Content on the Web in the Context of Cultural Heritage
+Using Visitor-Flow Visualization to Improve Visitor Experience in Museums and Exhibitions
+Using Web Services To Deliver Information Integration
+Using an RDF Data Pipeline to Implement Cross-Collection Search
+Using the Web for Participation and Interactivity
+Using the Web to Change the Relation Between a Museum and Its Users
+Using the Web to Give Life to Museums
+Using the Web to Support and Document New Media Collaboration
+ViMuseo.fi Project: Towards Digital Inclusion of Small Museums
+Victorian Collections: Digital Transformation and Community Collections
+Victorian Collections: Measuring the Impact of a Digital Community Museum Project
+Video iPods and Art Education
+Vienna International Festival / Wiener Festwochen (1996): Managing Culture on the Web
+Viewing the Viewer: Remote Usability Testing
+Village Voice: An Information Architecture for Community-Centered Exhibits
+Virtual Exhibition Production: A Reference Guide
+Virtual Members: CHIN and The Guide to Canadian Museums & Galleries
+Virtual Museum Collaborations for Cultural Revitalization: The Four Directions Model
+Virtual Museum and Small Museums: ViMuseo.fi Project
+Virtual Museums Made Easy with New Techniques and Tools
+Virtual Museums: How to Make Digital Information Child-Friendly
+Virtual Objects & Real Education: Prolegomenon Version 0.1
+Virtual Pyramids: The Museum of Fine Arts, Boston's Giza Archives Project
+Virtual Repatriation and the Application Programming Interface: From the Smithsonian Institution's MacFarlane Collection to 'Inuvialuit Living History'
+Virtual Visitor Experience and Use
+Virtual Visits to Virtual Museums
+Virtual reality at the British Museum: What is the value of virtual reality environments for learning by children and young people, schools, and families?
+Virtual vs. Physical: Creating Online Educational Experiences through Design
+Visitor Interactions with Digitized Artifacts
+Visitor Interactivity Becomes Museum Exhibit
+Visitor Services, Retail, and Development: Where Do They Fit on the Web?
+Visitor-Constructed Personalized Learning Trails
+Visitor-first, mobile-first: Designing a visitor-centric mobile experience
+Visitors, Digital Innovation, and a Squander Bug: Reflections on Digital R&D for Audience Engagement and Institutional Impact
+Visitors' Voices
+Visual Exploration of Australian Prints and Printmaking
+Visual/Human Interface for Virtual Exhibitions
+Vital Visual Interpretation: The Promise of Short Videos Apps for Museums
+Vodcasting: 5 Easy Steps to Film an Interview and Get It Online in a Day!
+Voices from the Dawn: The Ancient Monuments of Ireland and Their Folklore
+Voices:FAMSF: Testing a New Model of Interpretive Technology at the Fine Arts Museums of San Francisco
+Watchers and profiles: unlocking content for every possible use and audience via configurable utilities
+We Are Your Audience
+We Tube: Getting Physical with a Virtual Community through a YouTube Meetup
+Weaving Meaning: the W3C's Semantic Web Initiatives
+Web 2.0: How to Stop Thinking and Start Doing: Addressing Organisational Barriers
+Web Architecture for Museums
+Web Dissemination of Cultural Content through Information Landscapes
+Web Graphics: Art on the Net
+Web Lab—Bridging the Divide between the Online and In-Museum Experience
+Web Museums and Memory in the Age of Digital Multimedia Networks (Extensions of Walter Benjamin's Insights)
+Web Preservation Projects at Library of Congress
+Web Site Metamorphosis
+Web Sponsorships: How Museums and Private Companies Can Play Together on a New Playground
+Web-Specific Art: The Development of a New Genre
+Web-enriched Heritage in the Pipelines Corridor: Contested Histories from the Caspian to the Mediterranean
+Website redesign mistakes: How to avoid them, how to work through them, and how to design something sustainable
+Weighing the World Wide Web: The art and science of load testing for unique high-spike conditions
+We're Building It, Will They Use It? The MOAC II Evaluation Project
+What Clicked? A Report on Audience Research and Media Resources
+What Clicks? An Interim Report on Audience Research
+What Does Openness Mean to the Museum Community?
+What If Web Archiving Were as Reliable as Pushing a Simple Button?
+What Is Your Museum Good at and How Do You Build an API for It?
+What are your credentials? Museums, education, and digital badging
+What happened here? Explore the history of Stockholm with your smartphone
+What remains invisible? Building infrastructure and collaborative spaces in the Harvard Art Museums
+What retrogamers can teach the museum
+What the Fonds?! The Ups and Downs of Digitising Tate's Archive
+What's On TAP? Strategies for Keeping Pace with Rapid Changes in Mobile Technology
+What's the Point? Two Case Studies of Introducing Digital In-Gallery Experiences
+When Is a Terracotta Hut Urn Like a Sailor's Deck-log? Meaning Instantiated across Virtual Boundaries
+When in Roam: Visitor Response to Phone Tour Pilots in the US And Europe
+When to Ask and When to Shut up: How to Get Visitor Feedback on Digital Interactives
+Where Are the Pictures? Linking Photographic Records across Collections Using Fuzzy Logic
+Where Do Images of Art Go Once They Go Online? A Reverse Image Lookup Study to Assess the Dissemination of Digitized Cultural Heritage
+Where Do We Go from Here? Continuing with Web 2.0
+Where Have All the 'Surfers' Gone? How Are We Going to Keep Them Coming Back?
+White Gloves and the Web: Collections in the Classroom
+Whither the Web: Professionalism and Practices for the Changing Museum
+Who Are You Calling Cheap?
+Who Has the Responsibility for Saying What We See? Mashing Up Museum and Visitor Voices, On Site and Online
+Who reviewed this?! A survey on museum Web publishing in 2018
+Who's Out There? A Pilot User Study of Educational Web Resources by the Science Learning Network (SLN)
+Why Are They Doing That!? How Users Interact with Museum Web Sites
+Why Are We Here? Justifying Our Presence on the Internet
+Why MOOCs matter: The consequence of massive open online courses for museums, universities, and their publics
+Why Reinvent the Wheel Over and Over Again? How an Offline Platform Stimulates Online Innovation
+Wiki Software and Facilities for Museums
+WikiWelcome: Students creating history and sharing knowledge about their neighborhood in present, past and future
+Winning (and losing) hearts and minds of museum staff: Administrative interfaces at Cooper Hewitt
+Wired For Accessibility
+Wireless Networking at the Victoria & Albert Museum
+With All This I.T., Are We Doing Our Job Better?
+Within These Walls: Putting Web-Based Resources to Work in the New de Young Museum
+Word by Word: A mobile game to encourage collaborative storytelling within the museum
+XML Coding of Dramatic Structure for Visualization
+Yale Center for British Art's Reformation to Restoration project: Applying IIIF Mirador technology to support digital scholarly collaboration and research
+You Push, I Pull, We Interact: Using XML to Make It Meaningful
+YouTube to MuseTube—Now We Have Web 2.0 Tools, How Do We Use Them?
+Your Paintings: A Nation's Oil Paintings Go Online, Tagged by the Public
+ZKM | Center for Art and Media Karlsruhe: The Museum of the Future
+Zero to a Million in One Year Flat
+building=yes
+doppelg
+e-Docents: Shifting the Docents Business Paradigm
+hoard.it: Aggregating, Displaying, and Mining Object Data without Consent
+iTunes U
+mARChive: Sculpting Museum Victoria's Collections
+mnartists.org
+museum@online
+netzspannung.org—A Collaborative Knowledge Space for Media Art and Technology
+Ímesh (To Walk): The “app”lication of Indigenous art and landscapes at Simon Fraser University
+'Artcasting' at SFMOMA: First-Year Lessons, Future Challenges for Museum Podcasters
+'DissemiNET'—A Prototype of a Net-Based Curatorial System
+'Howdy Partner!' The Transformative Power of Museum-University Partnerships
+'Re-casting Our Net': Broadening Information Access at the National Maritime Museum
+'Web Musing': Evaluating Museums on the Web from Learning Theory to Methodology
+Where does this work belong? New digital approaches to evaluating engagement with art

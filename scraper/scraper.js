@@ -2,7 +2,7 @@ const fs = require('fs');
 const puppeteer = require('puppeteer');
 
 const URL = 'https://www.museumsandtheweb.com/researchForum7267.html?%24Version=1&%24Path=%2F';
-const OUTPUT_PATH = 'mwbib2.txt';
+const OUTPUT_PATH = 'archive.txt';
 
 function run(pagesToScrape) {
   return new Promise(async (resolve, reject) => {
