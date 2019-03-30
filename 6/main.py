@@ -14,6 +14,7 @@ def most_frequent_words(data, year, num, stop, extra_stops):
     start, end = year.split('-')
   else:
     start = year
+    end = int(year) + 1
 
   for year in range(int(start), int(end)):  
     titles = list(set([title['title'] for title in data if title['year'] == str(year)]))
@@ -31,6 +32,7 @@ def most_frequent_words(data, year, num, stop, extra_stops):
     all_words += words
 
   fdist = FreqDist(all_words)
+
   return fdist.most_common(num)
 
 
@@ -40,7 +42,7 @@ if __name__ == '__main__':
                       type=str, help='Analyse papers from years in range. Output given per year. e.g. 1997-2019 will output data for each year in the range. Or enter a single year')
   parser.add_argument('-w', '--words',
                       type=int, help='Show this many most frequently used words.',
-                      default=20)
+                      default=50)
   parser.add_argument('--stop', help='Filter stopwords from the most frequently used words.',
                       action='store_true', default=False)
   parser.add_argument('--customstop', help='Filter customisable stopwords.',
