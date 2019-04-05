@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MW date search</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+    <style type="text/css">
+        body {
+            font-family: sans-serif;
+        }
+
+    </style>
+</head>
+<body>
+
+<form id="search_form">
+    Type a search term: <input id="search_term" type="text"/> <input type="submit" id="search_button" value="Search!"><br/>
+    <input type="radio" name="scale" id="absolute" value="absolute" checked> <label for="absolute">Absolute values</label>
+    <input type="radio" name="scale" id="relative" value="relative"> <label for="relative">Relative values</label><br/>
+    <input type="radio" name="source" id="OCR" value="OCR" checked> <label for="OCR">OCR transcriptions</label>
+    <input type="radio" name="source" id="catalogue" value="catalogue"> <label for="catalogue">Catalogue description</label><br/>
+    <input type="radio" name="smoothing" id="smooth" value="0.3" checked> <label for="smooth">Smooth</label>
+    <input type="radio" name="smoothing" id="spikey" value="0" > <label for="spikey">Spikey</label>
+    <input type="radio" name="smoothing" id="scribble" value="5"> <label for="scribble">Scribble</label>
+    <br/>
+</form>
+<!--
+<input type="button" id="reset_button" value="Reset">
+-->
+
+<div style="width:95%;max-height:80%">
+    <canvas id="myChart"></canvas>
+</div>
+
+<script>
+    window.chartColors = {
+        red: 'rgb(255, 99, 132)',
+        orange: 'rgb(255, 159, 64)',
+        yellow: 'rgb(255, 205, 86)',
+        green: 'rgb(75, 192, 192)',
+        blue: 'rgb(54, 162, 235)',
+        purple: 'rgb(153, 102, 255)',
+        grey: 'rgb(201, 203, 207)'
+    };
+
+    window.chartConfig = {
+        type: 'line',
+        options: {
+            responsive: true,
+            title: {
+                display: true,
+                text: 'Matches from Museums and the Web papers'
+            },
+            tooltips: {
+                mode: 'index',
+                intersect: false,
+            },
+            hover: {
+                mode: 'nearest',
+                intersect: true
+            },
+            scales: {
+                xAxes: [{
+                    type: 'time',
+                    time: {
+                        unit: 'year'
+                    }
+                }],
+                yAxes: [{
+                    ticks: {
+                        beginAtZero:true
+                    }
+                }]
+            }
+        },
+
+    };
+
+    // defaults
+    window.scale = "absolute"
+    window.source = "OCR"
+
+    window.base_url = "https://www.qdl.qa/en/search/timeline/";
+    // TODO change to be selectable
+    window.extra_query = {}
+    window.extra_query["OCR"] = "?f%5B0%5D=document_source%3Aarchive_source&f%5B1%5D=record_type%3Aphysical&retain-filters=1&f[2]=date_range%3A%5B600%20TO%202000%5D";
+    window.extra_query["catalogue"] = "?f%5B0%5D=document_source%3Aarchive_source&f%5B1%5D=record_type%3Alogical&retain-filters=1&f[2]=date_range%3A%5B600%20TO%202000%5D";
+
+    var ctx = document.getElementById("myChart");
+    window.myChart = new Chart(ctx, window.chartConfig);
+
+
+    // EVENTS
+
+
+    // onLoad
+    $(function ()
+    {
+        // bind actions
+
+        // TODO huh? triggers all the time
+        //$("#reset_button").click(console.log('button clicked')); // location.reload());
+
+        $("#search_form").submit(function(e){
+            e.preventDefault();
+            var form = this;
+            window.scale = $('input[name=scale]:checked').val();
+            window.source = $('input[name=source]:checked').val();
+            console.log('scale: ' + window.scale);
+            console.log('source: ' + window.source);
+            var term = $('#search_term').val();
+            var smoothing = parseFloat($('input[name=smoothing]:checked').val());
+            console.log('smoothing: ' + smoothing);
+            doSearch(term, smoothing);
+        });
+
+        // get baseline 'empty search' x 2
+        window.baseline_data = {};
+        // 1. OCR
+        $.get(window.base_url + window.extra_query['OCR'], null, function (raw_json, textStatus, xhr) {
+            // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
+
+            // voodoo to convert an array of alternating years and values into a dictionary of dates
+            window.baseline_data['OCR'] = raw_json.facet_counts.facet_ranges.date_range.counts.reduce(function(result, value, index, array) {
+                if (index % 2 === 0)
+                    result[array[index]] = array[index+1];
+                return result;
+            }, {});
+
+        });
+
+        // 2. Catalogue
+        $.get(window.base_url + window.extra_query['catalogue'], null, function (raw_json, textStatus, xhr) {
+            // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
+
+            // voodoo to convert an array of alternating years and values into a dictionary of dates
+            window.baseline_data['catalogue'] = raw_json.facet_counts.facet_ranges.date_range.counts.reduce(function(result, value, index, array) {
+                if (index % 2 === 0)
+                    result[array[index]] = array[index+1];
+                return result;
+            }, {});
+
+        });
+
+        console.log('baseline: ' + window.baseline_data);
+
+
+
+    });
+
+    function doSearch(term, smoothing) {
+        console.log(term);
+
+        //$("#result").load("content.html"); //loads contents of file straight into div!
+        /*
+            $.get("content.html",null, function (data, textStatus, xhr) {
+                // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
+                $("#result").html(data);
+            });
+        */
+        // load data from file
+        $.getJSON("http://127.0.0.1:8887/data/all.json", function(json) {
+          console.log(json); // this will show the info it in firebug console
+          var all = json;
+
+          var search_data = {};
+          // TODO find multiple matches with match instead of indexOf
+          for (var i=0 ; i < all.length ; i++)
+          {
+            // titles
+            if (all[i]["title"].toLowerCase().indexOf(term.toLowerCase()) != -1) {
+              year = parseInt(all[i]['year']);
+              search_data[year] = (search_data[year] || 0) + 1;
+            }
+            // add abstracts as well
+            if (all[i]["abstract"] != null && all[i]["abstract"].toLowerCase().indexOf(term.toLowerCase()) != -1) {
+              year = parseInt(all[i]['year']);
+              search_data[year] = (search_data[year] || 0) + 1;
+            }
+          }
+          console.log('NEW! ');
+          console.log(search_data);
+
+          // pick a color
+          var colorNames = Object.keys(window.chartColors)
+          var colorName = colorNames[window.chartConfig.data.datasets.length % colorNames.length];
+          var newColor = window.chartColors[colorName];
+
+          var newDataset = {
+              label: term, // + ' (' + window.scale + ', ' + window.source + ')',
+              backgroundColor: newColor,
+              borderColor: newColor,
+              data: search_data,
+              fill: false,
+              lineTension: smoothing,
+          };
+
+          window.chartConfig.data.datasets.push(newDataset);
+// The line below is where it fails
+          window.myChart.update();
+
+        });
+/* If you comment out the block above and uncomment this block it works 
+        $.get(window.base_url + term + window.extra_query[window.source], null, function (raw_json, textStatus, xhr) {
+            // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
+            //$("#result").html(data);
+            console.log(raw_json);
+
+            search_data = jsonToData(raw_json)
+
+            console.log(search_data);
+
+            // pick a color
+            var colorNames = Object.keys(window.chartColors)
+            var colorName = colorNames[window.chartConfig.data.datasets.length % colorNames.length];
+            var newColor = window.chartColors[colorName];
+
+            var newDataset = {
+                label: term + ' (' + window.scale + ', ' + window.source + ')',
+                backgroundColor: newColor,
+                borderColor: newColor,
+                data: search_data,
+                fill: false,
+                lineTension: smoothing,
+            };
+
+            window.chartConfig.data.datasets.push(newDataset);
+            window.myChart.update();
+
+        });
+*/
+    }
+
+
+    // UTILS
+
+    function jsonToData(json) {
+
+        data = []
+        if (json.response.numFound != 0) {
+
+            // voodoo to convert an array of alternating years and values into dates and values
+            data = json.facet_counts.facet_ranges.date_range.counts.reduce(function(result, value, index, array) {
+                if (index % 2 === 0) {
+                    if (window.scale == "absolute") {
+                        result.push({ x: new Date(parseInt(array[index]),0), y:array[index+1] });
+                    } else {
+                        // percentage values relative to baseline empty search
+                        result.push({ x: new Date(parseInt(array[index]),0), y:(array[index+1]/window.baseline_data[window.source][array[index]])*100 });
+                    }
+                }
+                return result;
+            }, []);
+
+        }
+
+        return data
+
+    }
+
+</script>
+
+
+</body>
+</html>
