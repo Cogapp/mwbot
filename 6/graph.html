@@ -17,9 +17,9 @@
 <form id="search_form">
     Type a search term: <input id="search_term" type="text"/> <input type="submit" id="search_button" value="Search!"><br/>
     <input type="radio" name="scale" id="absolute" value="absolute" checked> <label for="absolute">Absolute values</label>
-    <input type="radio" name="scale" id="relative" value="relative"> <label for="relative">Relative values</label><br/>
-    <input type="radio" name="source" id="OCR" value="OCR" checked> <label for="OCR">OCR transcriptions</label>
-    <input type="radio" name="source" id="catalogue" value="catalogue"> <label for="catalogue">Catalogue description</label><br/>
+    <!-- <input type="radio" name="scale" id="relative" value="relative"> <label for="relative">Relative values</label><br/> -->
+    <!-- <input type="radio" name="source" id="OCR" value="OCR" checked> <label for="OCR">OCR transcriptions</label> -->
+    <!-- <input type="radio" name="source" id="catalogue" value="catalogue"> <label for="catalogue">Catalogue description</label><br/> -->
     <input type="radio" name="smoothing" id="smooth" value="0.3" checked> <label for="smooth">Smooth</label>
     <input type="radio" name="smoothing" id="spikey" value="0" > <label for="spikey">Spikey</label>
     <input type="radio" name="smoothing" id="scribble" value="5"> <label for="scribble">Scribble</label>
@@ -79,14 +79,9 @@
 
     // defaults
     window.scale = "absolute"
-    window.source = "OCR"
 
-    window.base_url = "https://www.qdl.qa/en/search/timeline/";
-    // TODO change to be selectable
-    window.extra_query = {}
-    window.extra_query["OCR"] = "?f%5B0%5D=document_source%3Aarchive_source&f%5B1%5D=record_type%3Aphysical&retain-filters=1&f[2]=date_range%3A%5B600%20TO%202000%5D";
-    window.extra_query["catalogue"] = "?f%5B0%5D=document_source%3Aarchive_source&f%5B1%5D=record_type%3Alogical&retain-filters=1&f[2]=date_range%3A%5B600%20TO%202000%5D";
-
+    window.base_url = "http://127.0.0.1:8887/data/all.json";
+    
     var ctx = document.getElementById("myChart");
     window.myChart = new Chart(ctx, window.chartConfig);
 
@@ -117,69 +112,42 @@
 
         // get baseline 'empty search' x 2
         window.baseline_data = {};
-        // 1. OCR
-        $.get(window.base_url + window.extra_query['OCR'], null, function (raw_json, textStatus, xhr) {
-            // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
-
-            // voodoo to convert an array of alternating years and values into a dictionary of dates
-            window.baseline_data['OCR'] = raw_json.facet_counts.facet_ranges.date_range.counts.reduce(function(result, value, index, array) {
-                if (index % 2 === 0)
-                    result[array[index]] = array[index+1];
-                return result;
-            }, {});
-
-        });
-
-        // 2. Catalogue
-        $.get(window.base_url + window.extra_query['catalogue'], null, function (raw_json, textStatus, xhr) {
-            // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
-
-            // voodoo to convert an array of alternating years and values into a dictionary of dates
-            window.baseline_data['catalogue'] = raw_json.facet_counts.facet_ranges.date_range.counts.reduce(function(result, value, index, array) {
-                if (index % 2 === 0)
-                    result[array[index]] = array[index+1];
-                return result;
-            }, {});
-
-        });
-
-        console.log('baseline: ' + window.baseline_data);
-
+        
 
 
     });
 
     function doSearch(term, smoothing) {
-        console.log(term);
 
-        //$("#result").load("content.html"); //loads contents of file straight into div!
-        /*
-            $.get("content.html",null, function (data, textStatus, xhr) {
-                // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
-                $("#result").html(data);
-            });
-        */
         // load data from file
         $.getJSON("http://127.0.0.1:8887/data/all.json", function(json) {
           console.log(json); // this will show the info it in firebug console
           var all = json;
 
-          var search_data = {};
+          var count_data = {};
+          
           // TODO find multiple matches with match instead of indexOf
-          for (var i=0 ; i < all.length ; i++)
-          {
+          for (var i=0 ; i < all.length ; i++) {
+            year = parseInt(all[i]['year']);
+            count_data[year] = (count_data[year] || 0);
+
             // titles
             if (all[i]["title"].toLowerCase().indexOf(term.toLowerCase()) != -1) {
-              year = parseInt(all[i]['year']);
-              search_data[year] = (search_data[year] || 0) + 1;
+              count_data[year] = (count_data[year] || 0) + 1;
             }
+
             // add abstracts as well
             if (all[i]["abstract"] != null && all[i]["abstract"].toLowerCase().indexOf(term.toLowerCase()) != -1) {
-              year = parseInt(all[i]['year']);
-              search_data[year] = (search_data[year] || 0) + 1;
+              count_data[year] = (count_data[year] || 0) + 1;
             }
           }
-          console.log('NEW! ');
+
+          // Shape data into an array of xy objects.
+          var search_data = [];
+          for (item in count_data) {
+            search_data.push({ x: new Date(parseInt(item), 0), y: count_data[item] });
+          }
+
           console.log(search_data);
 
           // pick a color
@@ -195,46 +163,14 @@
               fill: false,
               lineTension: smoothing,
           };
-
+          
           window.chartConfig.data.datasets.push(newDataset);
-// The line below is where it fails
           window.myChart.update();
 
         });
-/* If you comment out the block above and uncomment this block it works 
-        $.get(window.base_url + term + window.extra_query[window.source], null, function (raw_json, textStatus, xhr) {
-            // second param (null) is the data you want GET as a query string. Specified as { key: value } probably
-            //$("#result").html(data);
-            console.log(raw_json);
-
-            search_data = jsonToData(raw_json)
-
-            console.log(search_data);
-
-            // pick a color
-            var colorNames = Object.keys(window.chartColors)
-            var colorName = colorNames[window.chartConfig.data.datasets.length % colorNames.length];
-            var newColor = window.chartColors[colorName];
-
-            var newDataset = {
-                label: term + ' (' + window.scale + ', ' + window.source + ')',
-                backgroundColor: newColor,
-                borderColor: newColor,
-                data: search_data,
-                fill: false,
-                lineTension: smoothing,
-            };
-
-            window.chartConfig.data.datasets.push(newDataset);
-            window.myChart.update();
-
-        });
-*/
     }
 
-
     // UTILS
-
     function jsonToData(json) {
 
         data = []
