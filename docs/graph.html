@@ -13,10 +13,10 @@
     </style>
 </head>
 <body>
-
+<h1>MuseWeb paper search</h1>
 <form id="search_form">
     Type a search term: <input id="search_term" type="text"/> <input type="submit" id="search_button" value="Search!"><br/>
-    <input type="radio" name="scale" id="absolute" value="absolute" checked> <label for="absolute">Absolute values</label>
+    <input type="hidden" name="scale" id="absolute" value="absolute" checked> <!--<label for="absolute">Absolute values</label>-->
     <!-- <input type="radio" name="scale" id="relative" value="relative"> <label for="relative">Relative values</label><br/> -->
     <!-- <input type="radio" name="source" id="OCR" value="OCR" checked> <label for="OCR">OCR transcriptions</label> -->
     <!-- <input type="radio" name="source" id="catalogue" value="catalogue"> <label for="catalogue">Catalogue description</label><br/> -->
@@ -80,7 +80,7 @@
     // defaults
     window.scale = "absolute"
 
-    window.base_url = "http://127.0.0.1:8887/data/all.json";
+    window.base_url = "/all.json";
     
     var ctx = document.getElementById("myChart");
     window.myChart = new Chart(ctx, window.chartConfig);
@@ -120,7 +120,7 @@
     function doSearch(term, smoothing) {
 
         // load data from file
-        $.getJSON("http://127.0.0.1:8887/data/all.json", function(json) {
+        $.getJSON(window.base_url, function(json) {
           console.log(json); // this will show the info it in firebug console
           var all = json;
 
