@@ -1,4 +1,4 @@
-2. Dumb-as-fuck: we took all the words from the title and picked the most popular (expect result like "A the at museum by digital of")
+2. Dumb-as-you-like: we took all the words from the title and picked the most popular (expect result like "A the at museum by digital of")
 
 ```
 python main.py
