@@ -1,7 +1,7 @@
 scipy==1.1.0
 markovify==0.7.1
 spacy==2.1.1
-numpy==1.21.0
+numpy==1.22.0
 pandas==0.24.2
 nltk==3.6.6
 scikit_learn==0.20.3
